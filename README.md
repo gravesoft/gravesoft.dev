@@ -1,1 +1,1 @@
-This site https://gravesoft.dev/ is built using [Docusaurus](https://docusaurus.io/).
+[GraveSoft](https://gravesoft.dev/) is built using [Docusaurus](https://docusaurus.io/).
