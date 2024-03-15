@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'GraveSoft',
+  title: 'Gravesoft',
   tagline: 'People making open-source and free software.',
   favicon: 'img/favicon.ico',
 
@@ -20,8 +20,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'GraveSoft', // Usually your GitHub org/user name.
-  projectName: 'GraveSoft-Site', // Usually your repo name.
+  organizationName: 'Gravesoft', // Usually your GitHub org/user name.
+  projectName: 'Gravesoft-site', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -67,18 +67,18 @@ const config = {
       // Replace with your project's social card
       image: 'img/card.png',
       navbar: {
-        title: 'GraveSoft',
+        title: 'Gravesoft',
         logo: {
-          alt: 'GraveSoft',
+          alt: 'Gravesoft',
           src: 'img/logo.svg',
         },
         items: [
-          {
+/*           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Home',
-          },
+          }, */
           /* {to: '/blog', label: 'Blog', position: 'left'}, */
           {
             href: 'https://github.com/gravesoft',
