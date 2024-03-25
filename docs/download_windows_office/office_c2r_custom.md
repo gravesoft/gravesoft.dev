@@ -8,7 +8,7 @@ sidebar_label: Office C2R Custom Install
 ## Notes
 
 -   If the below guide is confusing to you then the simplest option for you is to use [Office C2R Installer](/download_windows_office/office_c2r_links).
--   Retail Office (e.g. O365) has latest feature updates and Volume Office (e.g. ProPlus 2021) doesn't. Both can be activated using Ohook activation method.
+-   Retail Office (e.g. O365) has latest feature updates and Volume Office (e.g. ProPlus 2021) doesn't.
 -   Please note that in the official C2R office custom installation method, there is no ISO or any one-click solution available. Below is the simplest guide to installing customized office.
 
 :::tip

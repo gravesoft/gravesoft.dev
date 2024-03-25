@@ -4,7 +4,10 @@ sidebar_position: 5
 
 # Gravesoft News
 
-### [25-Mar-24] Windows/Office download, and guide pages added
+### [26-Mar-24] Added in-place repair guide
+https://github.com/gravesoft/gravesoft-site
+
+### [25-Mar-24] Windows/Office download and guides added
 https://github.com/gravesoft/gravesoft-site
 
 ### [11-Mar-24] msdl repo moved to gravesoft
