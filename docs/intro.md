@@ -9,11 +9,10 @@ sidebar_position: 1
 
 People making open-source and free software for Windows.
 
-https://github.com/gravesoft
+https://gravesoft.dev/  
+https://github.com/gravesoft 
 
 ---
-
-## Our Software
 
 TBA
 

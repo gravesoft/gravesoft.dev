@@ -73,13 +73,42 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-/*           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+          {
+			to: '/category/our-software/',
             position: 'left',
-            label: 'Home',
-          }, */
+            label: 'Our Software',
+          },
+          {
+			to: '/category/download-windows--office/',
+            position: 'left',
+            label: 'Download Windows / Office',
+          },
+          {
+			to: '/category/guides/',
+            position: 'left',
+            label: 'Guides',
+          },
+          {
+			to: '/news',
+            position: 'left',
+            label: 'News',
+          },
+          {
+			to: '/credits',
+            position: 'left',
+            label: 'Credits',
+          },
+          {
+			to: '/troubleshoot',
+            position: 'right',
+            label: 'Troubleshoot',
+          },
           /* {to: '/blog', label: 'Blog', position: 'left'}, */
+          {
+            href: 'https://discord.gg/yJ8phEmbw9',
+            label: 'Discord',
+            position: 'right',
+          },
           {
             href: 'https://github.com/gravesoft',
             label: 'GitHub',

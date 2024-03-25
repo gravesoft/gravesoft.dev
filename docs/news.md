@@ -1,8 +1,11 @@
 ---
-sidebar_position: 3
+sidebar_position: 5
 ---
 
 # Gravesoft News
+
+### [25-Mar-24] Windows/Office download, and guide pages added
+https://github.com/gravesoft/gravesoft-site
 
 ### [11-Mar-24] msdl repo moved to gravesoft
 https://github.com/gravesoft/msdl
