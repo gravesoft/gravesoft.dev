@@ -13,7 +13,7 @@ sidebar_label: Office C2R Custom Install
 
 :::tip
 
--   Russian users needs to follow [this guide](../guides/bypass-russian-geoblock) to bypass geoblock in Office downloading.
+-   Russian users needs to follow [this guide](../guides/bypass-russian-geoblock.md) to bypass geoblock in Office downloading.
 
 :::
 
@@ -78,4 +78,4 @@ Just FYI, Office 365 has most features, not 2024.
 
 ## Need help?
 
--   Check [here](../troubleshoot).
+-   Check [here](../troubleshoot.md).

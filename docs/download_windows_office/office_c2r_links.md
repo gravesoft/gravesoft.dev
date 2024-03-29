@@ -18,10 +18,10 @@ sidebar_label: Office C2R Installers
 :::tip
 
 -   If office installation is showing that it can't install on **selected updated channel** or there's an error due to leftovers of previously installed office then **run Full Scrub option** in [Office Scrubber](https://github.com/abbodi1406/WHD/raw/master/scripts/OfficeScrubber_12r.zip)
--   **Russian** users need to follow [this guide](../guides/bypass-russian-geoblock) to bypass geoblock in Office downloading.
+-   **Russian** users need to follow [this guide](../guides/bypass-russian-geoblock.md) to bypass geoblock in Office downloading.
 
 :::
--   **Need help?** Check [here](../troubleshoot).
+-   **Need help?** Check [here](../troubleshoot.md).
 
 ------------------------------------------------------------------------
 

@@ -29,7 +29,7 @@ It uses shared sessions/proxy to generate official download links in Russia and 
 
 ## Office Download
 
-Russian users face an error when they try to [download](../download_windows_office/office_c2r_links) Office C2R with the online installer or ODT.
+Russian users face an error when they try to [download](../download_windows_office/office_c2r_links.md) Office C2R with the online installer or ODT.
 
 ### Error
 
@@ -63,6 +63,6 @@ After that, the office installer won't show any related errors. You can apply th
 
 ### Solution 2
 
--   Use the [Offline installer file](../download_windows_office/office_c2r_links) to install Office.
+-   Use the [Offline installer file](../download_windows_office/office_c2r_links.md) to install Office.
 
 ------------------------------------------------------------------------

@@ -31,6 +31,6 @@ In-place repair upgrade using Windows ISO file is a good way to fix system error
 
 :::tip
 
--   If you are not getting the option to keep files and apps, or the setup is showing any error, you can [connect with us](../troubleshoot) for help.
+-   If you are not getting the option to keep files and apps, or the setup is showing any error, you can [connect with us](../troubleshoot.md) for help.
 
 :::
