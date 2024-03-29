@@ -7,6 +7,14 @@ sidebar_label: Office C2R Installers
 
 ## Notes
 
+:::info
+
+-   **If you are unsure what to download,**
+    - Follow ❤️ signs in the below tables.
+    - Choose **O365ProPlus**, it provides the latest and most features possible.
+    - Choose **Online Installer x64**, it will install the latest version of Office with minimum download data.
+
+:::
 -   All of the below listed links are original from Microsoft with Retail license and Current update channel.
 -   Microsoft publishes updates in these same links, that means there isn't any need to update the links.
 -   **File size:** C2R office installer files are unified. It means that for example, Office 2021 ProPlus, Excel, and OneNote, will all have the same size. Online installer consumes less data because it downloads files for only one system architecture whereas Offline file contains both architectures.
