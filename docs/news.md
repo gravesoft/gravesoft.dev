@@ -4,6 +4,9 @@ sidebar_position: 5
 
 # Gravesoft News
 
+### [07-Apr-24] Added Fix WPA guide
+https://github.com/gravesoft/gravesoft-site
+
 ### [26-Mar-24] Added in-place repair guide
 https://github.com/gravesoft/gravesoft-site
 
