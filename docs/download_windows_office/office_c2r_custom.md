@@ -70,7 +70,7 @@ Alternative steps to install Office 2024 preview:
 -   Download Office files for DevMain (Dogfood) Channel with [YAOCTRU](https://github.com/abbodi1406/WHD/raw/master/scripts/YAOCTRU_v9.0.zip)
 -   Extract `YAOCTRI_Configurator.cmd` file from [YAOCTRI](https://github.com/abbodi1406/WHD/raw/master/scripts/YAOCTRI_v10.7.zip) and place this file besides `Office` Folder which was downloaded by YAOCTRU
 -   Now run `YAOCTRI_Configurator.cmd` as admin to install Office
--   When Office installation is done, activate with Ohook option in MAS
+-   Done.
 
 Just FYI, Office 365 has most features, not 2024.
 
