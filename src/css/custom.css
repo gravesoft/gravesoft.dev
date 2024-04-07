@@ -6,56 +6,25 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #a43c99;
-  --ifm-color-primary-dark: #94368a;
-  --ifm-color-primary-darker: #8b3382;
-  --ifm-color-primary-darkest: #732a6b;
-  --ifm-color-primary-light: #b442a8;
-  --ifm-color-primary-lighter: #bb46af;
-  --ifm-color-primary-lightest: #c45fba;
+  --ifm-color-primary: #0060d9;
+  --ifm-color-primary-dark: #0056c3;
+  --ifm-color-primary-darker: #0052b8;
+  --ifm-color-primary-darkest: #004398;
+  --ifm-color-primary-light: #006aef;
+  --ifm-color-primary-lighter: #006efa;
+  --ifm-color-primary-lightest: #1b80ff;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
+/* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #ce92dc;
-  --ifm-color-primary-dark: #c276d3;
-  --ifm-color-primary-darker: #bb68cf;
-  --ifm-color-primary-darkest: #a93fc1;
-  --ifm-color-primary-light: #daaee5;
-  --ifm-color-primary-lighter: #e1bce9;
-  --ifm-color-primary-lightest: #f3e5f7;
-}
-
-.navbar {
-  background-image: url('bg.png');
-  background-size: cover;
-  background-color: #000;
-  box-shadow: 0 0 10px #0006;
-}
-
-.navbar__inner,
-.navbar__inner a,
-.navbar__inner a:hover {
-  color: #fff;
-}
-
-.navbar__inner .navbar__item {
-  transition: background var(--ifm-transition-fast);
-  border-radius: var(--ifm-breadcrumb-border-radius);
-}
-
-.navbar__inner .navbar__item:hover,
-.navbar__inner .clean-btn:hover {
-  background-color: #fff4;
-}
-
-.navbar__toggle.clean-btn:hover {
-  background: none;
-}
-
-.navbar__logo img {
-  filter: drop-shadow(1px 1px 2px #0003);
-}
-
-.navbar-sidebar .navbar__logo img {
-  filter: drop-shadow(.5px .5px 2px #000);
+  --ifm-color-primary: #ff982b;
+  --ifm-color-primary-dark: #ff8a0d;
+  --ifm-color-primary-darker: #fd8200;
+  --ifm-color-primary-darkest: #d16b00;
+  --ifm-color-primary-light: #ffa649;
+  --ifm-color-primary-lighter: #ffae58;
+  --ifm-color-primary-lightest: #ffc384;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
