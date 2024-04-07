@@ -1,30 +1,76 @@
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
-
-/* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #0060d9;
-  --ifm-color-primary-dark: #0056c3;
-  --ifm-color-primary-darker: #0052b8;
-  --ifm-color-primary-darkest: #004398;
-  --ifm-color-primary-light: #006aef;
-  --ifm-color-primary-lighter: #006efa;
-  --ifm-color-primary-lightest: #1b80ff;
-  --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-color-primary: #4f3ccd;
+  --ifm-color-primary-dark: #4331be;
+  --ifm-color-primary-darker: #3f2eb3;
+  --ifm-color-primary-darkest: #342694;
+  --ifm-color-primary-light: #6251d2;
+  --ifm-color-primary-lighter: #6c5cd5;
+  --ifm-color-primary-lightest: #887bdd;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #ff982b;
-  --ifm-color-primary-dark: #ff8a0d;
-  --ifm-color-primary-darker: #fd8200;
-  --ifm-color-primary-darkest: #d16b00;
-  --ifm-color-primary-light: #ffa649;
-  --ifm-color-primary-lighter: #ffae58;
-  --ifm-color-primary-lightest: #ffc384;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-color-primary: #bbb3ee;
+  --ifm-color-primary-dark: #aca2ea;
+  --ifm-color-primary-darker: #9d91e6;
+  --ifm-color-primary-darkest: #7e6fdf;
+  --ifm-color-primary-light: #cac4f2;
+  --ifm-color-primary-lighter: #d9d5f6;
+  --ifm-color-primary-lightest: #f8f7fd;
+}
+
+.navbar {
+  background-image: url('/img/bg.png');
+  background-size: cover;
+  background-color: #000;
+  box-shadow: 0 0 10px #0006;
+}
+
+.navbar__inner,
+.navbar__inner a,
+.navbar__inner a:hover {
+  color: #fff;
+}
+
+.navbar__inner .navbar__item {
+  transition: background var(--ifm-transition-fast);
+  border-radius: var(--ifm-breadcrumb-border-radius);
+}
+
+.navbar__inner .navbar__item:hover,
+.navbar__inner .clean-btn:hover {
+  background-color: #fff3;
+}
+
+.navbar__toggle.clean-btn:hover {
+  background: none;
+}
+
+.navbar__inner .github-button,
+.navbar__inner .discord-button {
+  width: 32px;
+  height: 32px;
+  font-size: 0;
+}
+
+.navbar__inner .github-button *,
+.navbar__inner .discord-button * {
+  display: none;
+}
+
+.navbar__inner .github-button:before,
+.navbar__inner .discord-button:before {
+  content: '';
+  width: 22px;
+  height: 22px;
+  display: block;
+}
+
+.navbar__inner .discord-button:before {
+  background: url('/img/discord.svg') no-repeat;
+  margin: 3px 0 0 -7px;
+}
+
+.navbar__inner .github-button:before {
+  background: url('/img/github.svg') no-repeat;
+  margin: 1px 0 0 -7px;
 }

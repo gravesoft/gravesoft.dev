@@ -100,13 +100,17 @@ const config = {
           /* {to: '/blog', label: 'Blog', position: 'left'}, */
           {
             href: 'https://discord.gg/yJ8phEmbw9',
-            label: 'Discord',
+            className: 'discord-button',
             position: 'right',
+            label: 'Discord',
+            "title": 'Chat with us on Discord',
           },
           {
             href: 'https://github.com/gravesoft',
-            label: 'GitHub',
+            className: 'github-button',
             position: 'right',
+            label: 'GitHub',
+            "title": 'GitHub repository',
           },
         ],
       },
