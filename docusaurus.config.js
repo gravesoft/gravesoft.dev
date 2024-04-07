@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -40,7 +40,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-		  routeBasePath: '/', // Serve the docs at the site's root	
+          routeBasePath: '/', // Serve the docs at the site's root	
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -68,32 +68,32 @@ const config = {
         },
         items: [
           {
-			to: '/category/our-software/',
+            to: '/category/our-software/',
             position: 'left',
             label: 'Our Software',
           },
           {
-			to: '/category/download-windows--office/',
+            to: '/category/download-windows--office/',
             position: 'left',
             label: 'Download Windows / Office',
           },
           {
-			to: '/category/guides/',
+            to: '/category/guides/',
             position: 'left',
             label: 'Guides',
           },
           {
-			to: '/news',
+            to: '/news',
             position: 'left',
             label: 'News',
           },
           {
-			to: '/credits',
+            to: '/credits',
             position: 'left',
             label: 'Credits',
           },
           {
-			to: '/troubleshoot',
+            to: '/troubleshoot',
             position: 'right',
             label: 'Troubleshoot',
           },
@@ -110,7 +110,7 @@ const config = {
           },
         ],
       },
-/*       footer: {
+      /*   footer: {
         style: 'dark',
         links: [
           {
