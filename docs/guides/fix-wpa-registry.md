@@ -30,3 +30,9 @@ sidebar_label: Fix WPA Registry
 -   If it doesn't help, you can [connect with us](../troubleshoot.md) for help.
 
 ------------------------------------------------------------------------
+
+## Video Tutorial
+
+import ReactPlayer from 'react-player'
+
+<ReactPlayer playing controls url='/Fix_WPA_Registry.mp4' />
