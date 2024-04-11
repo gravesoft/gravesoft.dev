@@ -35,4 +35,4 @@ sidebar_label: Fix WPA Registry
 
 import ReactPlayer from 'react-player'
 
-<ReactPlayer playing controls url='/Fix_WPA_Registry.mp4' />
+<ReactPlayer controls width='100%' height='auto' url='/Fix_WPA_Registry.mp4' />
