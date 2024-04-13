@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgravesoft=self.webpackChunkgravesoft||[]).push([[327],{4622:e=>{e.exports=JSON.parse('{"title":"Our Software","slug":"/category/our-software","permalink":"/category/our-software","navigation":{"previous":{"title":"Intro","permalink":"/"},"next":{"title":"Template","permalink":"/our_software/template"}}}')}}]);
