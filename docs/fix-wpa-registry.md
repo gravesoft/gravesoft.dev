@@ -1,12 +1,7 @@
----
-sidebar_position: 3
-sidebar_label: Fix WPA Registry
----
-
 # Fix WPA Registry
 
 -   In some cases, the system may have corrupt WPA registry keys at `HKEY_LOCAL_MACHINE\SYSTEM\WPA` which can cause `sppsvc` to not work and activation to fail, it can also cause high CPU usage in `sppsvc` service.
--   If you are not sure whether you need to do it or not, you can get help from [here](../troubleshoot.md).
+-   If you are not sure whether you need to do it or not, you can get help from [here](troubleshoot.md).
 -   This registry key is protected by the kernel and cannot be deleted normally. That is why we need to follow some more steps below to clear it.
 
 ------------------------------------------------------------------------
@@ -27,7 +22,7 @@ sidebar_label: Fix WPA Registry
     `E:\rearm.cmd`
 -   Wait for it to finish. When it's finished, you will be able to type in the command prompt, If not then wait.
 -   Once done, exit and then normally boot into Windows.
--   If it doesn't help, you can [connect with us](../troubleshoot.md) for help.
+-   If it doesn't help, you can [connect with us](troubleshoot.md) for help.
 
 ------------------------------------------------------------------------
 

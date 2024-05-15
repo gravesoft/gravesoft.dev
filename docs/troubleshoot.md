@@ -1,7 +1,3 @@
----
-sidebar_position: 6
----
-
 # Troubleshooting
 
 -   **Make sure** you are using the latest version.

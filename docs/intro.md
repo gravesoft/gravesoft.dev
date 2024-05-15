@@ -1,11 +1,10 @@
 ---
 slug: /
 sidebar_position: 1
+sidebar_label: Intro
 ---
 
-# Intro
-
-### Gravesoft
+# Gravesoft
 
 People making open-source and free software for Windows.
 

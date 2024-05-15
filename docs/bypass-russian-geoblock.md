@@ -1,8 +1,3 @@
----
-sidebar_position: 1
-sidebar_label: Bypass Russian Geoblock
----
-
 # Bypass Russian Geoblock
 
 In this page, methods to bypass Russian geoblock imposed by **Microsoft** will be discussed.
@@ -29,7 +24,7 @@ It uses shared sessions/proxy to generate official download links in Russia and 
 
 ## Office Download
 
-Russian users face an error when they try to [download](../download_windows_office/office_c2r_links.md) Office C2R with the online installer or ODT.
+Russian users face an error when they try to [download](office_c2r_links.md) Office C2R with the online installer or ODT.
 
 ### Error
 
@@ -38,7 +33,7 @@ Command not supported
 We're sorry, we can't continue because we weren't able to download a required file. Please make sure you're connected to the internet or connect to a different network, then try again.
 ```
 
-![](office_download_error_in_russia.png)
+![](/img/office_download_error_in_russia.png)
 
 #### How is Microsoft blocking it?
 
@@ -63,6 +58,6 @@ After that, the office installer won't show any related errors. You can apply th
 
 ### Solution 2
 
--   Use the [Offline installer file](../download_windows_office/office_c2r_links.md) to install Office.
+-   Use the [Offline installer file](office_c2r_links.md) to install Office.
 
 ------------------------------------------------------------------------

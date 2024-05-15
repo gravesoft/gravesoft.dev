@@ -1,19 +1,14 @@
----
-sidebar_position: 3
-sidebar_label: Office C2R Custom Install
----
-
 # Office C2R Custom Install
 
 ## Notes
 
--   If the below guide is confusing to you then the simplest option for you is to use [Office C2R Installer](/download_windows_office/office_c2r_links).
+-   If the below guide is confusing to you then the simplest option for you is to use [Office C2R Installer](office_c2r_links.md).
 -   Retail Office (e.g. O365) has latest feature updates and Volume Office (e.g. ProPlus 2021) doesn't.
 -   Please note that in the official C2R office custom installation method, there is no ISO or any one-click solution available. Below is the simplest guide to installing customized office.
 
 :::tip
 
--   Russian users needs to follow [this guide](../guides/bypass-russian-geoblock.md) to bypass geoblock in Office downloading.
+-   Russian users needs to follow [this guide](bypass-russian-geoblock.md) to bypass geoblock in Office downloading.
 
 :::
 
@@ -33,7 +28,7 @@ Once you're done:
 -   Go to [config.office.com](https://config.office.com/deploymentsettings)
 -   If you want Retail Office then select `Microsoft 365 Apps for enterprise` in the office suites section.
 -   If you want Volume Office then select `Office LTSC Professional Plus 2021 - Volume License` in the office suites section. (Don't select the SPLA version)
--   You can add Visio and Project apps if you need them. Don't select language that is [not available for Project/Visio](/download_windows_office/office_c2r_links) if you are installing those apps.
+-   You can add Visio and Project apps if you need them. Don't select language that is [not available for Project/Visio](office_c2r_links.md) if you are installing those apps.
 -   Customize other things and leave settings as default if you don't understand something.
 -   Once you go through all the options, click on the export button, select "Keep Current Settings" option and it will download a file named `Configuration.xml`
 -   Copy the downloaded `Configuration.xml` file to the root of the C drive, i.e. `C:\Configuration.xml`
@@ -78,4 +73,4 @@ Just FYI, Office 365 has most features, not 2024.
 
 ## Need help?
 
--   Check [here](../troubleshoot.md).
+-   Check [here](troubleshoot.md).

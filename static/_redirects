@@ -1,1 +1,11 @@
 /test /test.ps1 200
+/category/our-software / 200
+/category/download-windows--office / 200
+/category/guides / 200
+/our_software/template /template 200
+/download_windows_office/download_windows /download_windows 200
+/download_windows_office/office_c2r_links /office_c2r_links 200
+/download_windows_office/office_c2r_custom /office_c2r_custom 200
+/guides/bypass-russian-geoblock /bypass-russian-geoblock 200
+/guides/in-place_repair_upgrade /in-place_repair_upgrade 200
+/guides/fix-wpa-registry /fix-wpa-registry 200

@@ -1,9 +1,4 @@
----
-sidebar_position: 2
-sidebar_label: Office C2R Installers
----
-
-# Office C2R Installer Links
+# Office C2R Installers
 
 ## Notes
 
@@ -21,15 +16,15 @@ sidebar_label: Office C2R Installers
 -   **File version:** Online installer always installs latest Office version whereas Offline version is often 5-6 months old and Office will need updates once installed.
 -   To get more info about apps in a product suite, check [here](https://www.coolhub.top/tech-articles/products.html).
 -   **Don't use** offline links for Office 2013 because it's too old and it's installation cannot be updated. Use online installer if you need to use Office 2013.
--   **Advanced users:** If you want to customize your Office installation or want pure Volume installation, use this [ODT method](/download_windows_office/office_c2r_custom) of Office installation.
+-   **Advanced users:** If you want to customize your Office installation or want pure Volume installation, use this [ODT method](office_c2r_custom.md) of Office installation.
 
 :::tip
 
 -   If office installation is showing that it can't install on **selected updated channel** or there's an error due to leftovers of previously installed office then **run Full Scrub option** in [Office Scrubber](https://github.com/abbodi1406/WHD/raw/master/scripts/OfficeScrubber_12r.zip)
--   **Russian** users need to follow [this guide](../guides/bypass-russian-geoblock.md) to bypass geoblock in Office downloading.
+-   **Russian** users need to follow [this guide](bypass-russian-geoblock.md) to bypass geoblock in Office downloading.
 
 :::
--   **Need help?** Check [here](../troubleshoot.md).
+-   **Need help?** Check [here](troubleshoot.md).
 
 ------------------------------------------------------------------------
 

@@ -69,17 +69,17 @@ const config = {
         },
         items: [
           {
-            to: '/category/our-software/',
+            to: '/template',
             position: 'left',
             label: 'Our Software',
           },
           {
-            to: '/category/download-windows--office/',
+            to: '/download_windows',
             position: 'left',
             label: 'Download Windows / Office',
           },
           {
-            to: '/category/guides/',
+            to: '/bypass-russian-geoblock',
             position: 'left',
             label: 'Guides',
           },

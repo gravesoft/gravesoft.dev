@@ -1,7 +1,3 @@
----
-sidebar_position: 5
----
-
 # Gravesoft News
 
 ### [07-Apr-24] Added Fix WPA guide
