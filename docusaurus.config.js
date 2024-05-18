@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Gravesoft', // Usually your GitHub org/user name.
-  projectName: 'Gravesoft-site', // Usually your repo name.
+  projectName: 'Gravesoft.dev', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -46,7 +46,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/gravesoft/gravesoft-site/tree/main/',
+            'https://github.com/gravesoft/gravesoft.dev/tree/main/',
         },
         blog: false,
         theme: {
