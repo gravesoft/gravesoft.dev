@@ -69,7 +69,7 @@ const config = {
         },
         items: [
           {
-            to: '/template',
+            to: '/cas',
             position: 'left',
             label: 'Our Software',
           },

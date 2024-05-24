@@ -23,7 +23,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Our Software',
-      items: ['template'],
+      items: ['cas'],
 	  collapsed: false,
     },
     {
