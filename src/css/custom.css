@@ -74,3 +74,12 @@
   background: url('/img/github.svg') no-repeat;
   margin: 1px 0 0 -7px;
 }
+
+table {
+  font-family: var(--ifm-font-family-monospace);
+  font-size: var(--ifm-code-font-size);
+}
+
+.markdown h1:first-child {
+  --ifm-h1-font-size: 2.2rem;
+}
