@@ -1,5 +1,8 @@
 # Gravesoft News
 
+### [24-May-24] CAS is added by abbodi1406
+https://gravesoft.dev/cas
+
 ### [07-Apr-24] Added Fix WPA guide
 https://github.com/gravesoft/gravesoft-site
 
