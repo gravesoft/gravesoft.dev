@@ -45,7 +45,7 @@ It will now download and install Office. You can activate it with your preferred
 
 ## Alternative Methods
 
--   [YAOCTRU](https://github.com/abbodi1406/WHD/raw/master/scripts/YAOCTRU_v10.0.zip) (Office Downloader) & [YAOCTRI](https://github.com/abbodi1406/WHD/raw/master/scripts/YAOCTRI_v10.7.zip) (Office Installer)
+-   [YAOCTRU](https://github.com/abbodi1406/WHD/raw/master/scripts/YAOCTRU_v10.0.zip) (Office Downloader) & [YAOCTRI](https://github.com/abbodi1406/WHD/raw/master/scripts/YAOCTRI_v11.0.zip) (Office Installer)
 -   [Office Tool Plus](http://otp.landian.vip/)
 
 ------------------------------------------------------------------------
@@ -63,7 +63,7 @@ ODT can be used to install Office 2024 preview.
 Alternative steps to install Office 2024 preview:
 
 -   Download Office files for DevMain (Dogfood) Channel with [YAOCTRU](https://github.com/abbodi1406/WHD/raw/master/scripts/YAOCTRU_v10.0.zip)
--   Extract `YAOCTRI_Configurator.cmd` file from [YAOCTRI](https://github.com/abbodi1406/WHD/raw/master/scripts/YAOCTRI_v10.7.zip) and place this file besides `Office` Folder which was downloaded by YAOCTRU
+-   Extract `YAOCTRI_Configurator.cmd` file from [YAOCTRI](https://github.com/abbodi1406/WHD/raw/master/scripts/YAOCTRI_v11.0.zip) and place this file besides `Office` Folder which was downloaded by YAOCTRU
 -   Now run `YAOCTRI_Configurator.cmd` as admin to install Office
 -   Done.
 
