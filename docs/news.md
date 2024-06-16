@@ -1,5 +1,8 @@
 # Gravesoft News
 
+### [16-June-24] Office 2024 online installers are added
+https://gravesoft.dev/office_c2r_links
+
 ### [24-May-24] CAS is added by abbodi1406
 https://gravesoft.dev/cas
 
