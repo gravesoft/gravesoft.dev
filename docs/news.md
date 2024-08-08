@@ -1,5 +1,8 @@
 # Gravesoft News
 
+### [8-Aug-24] Added Fix PowerShell Guide
+https://gravesoft.dev/fix_powershell
+
 ### [16-June-24] Office 2024 online installers are added
 https://gravesoft.dev/office_c2r_links
 
