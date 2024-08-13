@@ -1,6 +1,10 @@
 # Gravesoft News
 
-### [8-Aug-24] Added Fix PowerShell Guide
+### [13-Aug-24] Added remove malware and clean install guide
+https://gravesoft.dev/remove_malware  
+https://gravesoft.dev/clean_install_windows  
+
+### [8-Aug-24] Added Fix PowerShell guide
 https://gravesoft.dev/fix_powershell
 
 ### [16-June-24] Office 2024 online installers are added
