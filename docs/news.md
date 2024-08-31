@@ -1,5 +1,9 @@
 # Gravesoft News
 
+### [31-Aug-24] Added Office 2024 EN-US Offline installers  
+Added included apps column in the download links table  
+https://gravesoft.dev/office_c2r_links
+
 ### [13-Aug-24] Added remove malware and clean install guide
 https://gravesoft.dev/remove_malware  
 https://gravesoft.dev/clean_install_windows  
