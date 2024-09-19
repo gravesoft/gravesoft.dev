@@ -10,7 +10,7 @@
 
 :::tip
 
--   If office installation is showing that it **can't install on selected updated channel** or there's an error due to leftovers of previously installed office then [**download Office Scrubber**](https://github.com/abbodi1406/WHD/raw/master/scripts/OfficeScrubber_12r.zip) and **extract that file** and run Full Scrub option.
+-   If office installation is showing that it **can't install on selected updated channel** or there's an error due to leftovers of previously installed office then [**download Office Scrubber**](https://github.com/abbodi1406/WHD/raw/master/scripts/OfficeScrubber_13.zip) and **extract that file** and run Full Scrub option.
 -   **Russian** users need to follow [this guide](bypass-russian-geoblock.md) to bypass geoblock in Office downloading.
 
 :::
