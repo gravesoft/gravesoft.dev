@@ -1,5 +1,8 @@
 # Gravesoft News
 
+### [19-Sep-24] Added Office 2024 Offline installers in all languages  
+https://gravesoft.dev/office_c2r_links
+
 ### [31-Aug-24] Added Office 2024 EN-US Offline installers  
 Added included apps column in the download links table  
 https://gravesoft.dev/office_c2r_links
