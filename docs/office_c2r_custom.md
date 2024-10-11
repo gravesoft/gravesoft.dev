@@ -29,7 +29,7 @@
 -   Customize other things and leave settings as default if you don't understand something.
 -   Once you go through all the options, click on the export button, select "Keep Current Settings" option and it will download a file named `Configuration.xml` (If the name is something else then change it to `Configuration.xml`
 -   Copy the downloaded `Configuration.xml` file to that Office folder which you created, example `C:\Office\Configuration.xml`
--   Open the **command prompt** (not Powershell) as admin and run the below commands  
+-   Open the **command prompt** (not Powershell) **as admin** and run the below commands  
     ```         
     cd /d C:\Office\
     setup.exe /configure Configuration.xml
@@ -39,6 +39,7 @@ It will now download and install Office. You can activate it with your preferred
 
 :::tip[Common errors]
 
+- Make sure you are entering those commands in command prompt (CMD) as admin.
 - File name extensions are hidden by default in Windows. Due to that, some people might incorrectly rename `Configuration.xml` to `Configuration.xml.xml` because `.xml` was not visible.
 
 :::
