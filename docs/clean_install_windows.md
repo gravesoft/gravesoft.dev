@@ -20,6 +20,10 @@ Guide on how to backup your data and clean install Windows.
   Open PowerShell as admin and enter  
   `sc.exe start "sppsvc" > $null 2>&1; Write-Host "Error code: $LASTEXITCODE"`  
   If the output is 577 or 225, then most likely chances are that the system is infected with File infector malware. 
+  
+  **What if you don't have another clean system?**  
+  You can try Dr.Web https://free.drweb.com/download+cureit/gr to remove file infector malware. However in some cases, it may miss to remove all, that's why its best to make bootable USB on another clean system.
+
 
 </details>
 
