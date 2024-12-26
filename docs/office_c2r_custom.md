@@ -25,17 +25,47 @@
 -   Go to [config.office.com](https://config.office.com/deploymentsettings)
 -   If you want Retail Office then select `Microsoft 365 Apps for enterprise` in the office suites section.
 -   If you want Volume Office then select `Office LTSC Professional Plus 2024 - Volume License` in the office suites section. (Don't select the SPLA version)
--   You can add Visio and Project apps if you need them. Don't select language that is [not available for Project/Visio](office_c2r_links.md) if you are installing those apps.
--   Customize other things and leave settings as default if you don't understand something.
--   Once you go through all the options, click on the export button, select "Keep Current Settings" option and it will download a file named `Configuration.xml` (If the name is something else then change it to `Configuration.xml`
+-   You can add Visio and Project apps if you need them, but ensure that [Project](https://learn.microsoft.com/projectonline/supported-languages-for-project-online) / [Visio](https://support.microsoft.com/office/display-languages-supported-in-the-visio-desktop-app-a921983e-fd5d-45ef-8af1-cedf70c53d75) supported language is selected.
+-   If you are planning to download Office files and install them later, then ensure that you select a specific version number instead of the latest in the `Select the version` option.
+-   You need to configure the options till "Language" section only. You can leave the rest as default.
+-   Click on the export button, select "Keep Current Settings" option and it will download a file named `Configuration.xml` (If the name is something else then change it to `Configuration.xml`
 -   Copy the downloaded `Configuration.xml` file to that Office folder which you created, example `C:\Office\Configuration.xml`
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+<TabItem value="direct_install" label="Direct Install" default>
+
 -   Open the **command prompt** (not Powershell) **as admin** and run the below commands  
     ```         
     cd /d C:\Office\
     setup.exe /configure Configuration.xml
     ```
 
-It will now download and install Office. You can activate it with your preferred method.
+It will now install Office.
+
+</TabItem>
+
+<TabItem value="download_and_install" label="Download and then install" default>
+
+-	Ensure that you have selected a specific version number in the configuration as per the above steps.
+-   Open the **command prompt** (not Powershell) **as admin** and run the below commands  
+	- Download Office files
+    ```         
+    cd /d C:\Office\
+    setup.exe /download Configuration.xml
+    ```
+	- Install Office from the downloaded Office files (can be done Offline)
+	```
+	cd /d C:\Office\
+    setup.exe /configure Configuration.xml
+    ```
+
+</TabItem>
+</Tabs>
+
+---
 
 :::tip[Common errors]
 
