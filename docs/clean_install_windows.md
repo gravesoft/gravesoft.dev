@@ -85,6 +85,34 @@ It's highly recommended to backup your critical data on some online drive as wel
 
 ---
 
+## Windows 11 on Unsupported Hardware
+
+- Rufus can help you install Windows 11 on unsupported hardware, but you will encounter problems with future feature updates since Microsoft does not permit that on such hardware.
+- To resolve this issue, you need to install IoT Enterprise 24H2 (2024) edition which is [officially supported](https://learn.microsoft.com/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements) on unsupported hardware. Don't worry about it being an unusual edition; it's binary identical to other editions, with the primary difference being the licensing.
+- This IoT Enterprise edition comes in 2 flavors,
+  - IoT Enterprise (GAC, General Availability Channel) 
+  - IoT Enterprise (LTSC, Long-Term Servicing Channel)
+- Next question, how do we install this edition?  
+  - For GAC version, you don't need IoT Enterprise ISO, you can simply use regular Windows 11 24H2 consumer (linked at the top) or business ISO.
+  - For LTSC version, you need to download the full version of LTSC ISO (don't use eval), it doesn't have to be IoT ISO, you can download a normal LTSC ISO in your language.
+  - Once you have flashed the required ISO with Rufus, go to the `\sources\` folder in USB and create a text file named `PID.txt` (be careful about the file extension) and enter the below text.
+    - For GAC version  
+	  ```
+	  [PID]
+	  Value=XQQYW-NFFMW-XJPBH-K8732-CKFFD
+	  ```
+    - For LTSC version  
+	  ```
+	  [PID]
+	  Value=CGK42-GYN6Y-VD22B-BX98W-J8JXD
+	  ```
+- When installing Windows, be sure not to use the old version of the installer.
+- That's it. The setup will auto-pick the IoT Enterprise edition.
+
+Alternatively, if you don't want to do that, you can install Windows normally and later change the edition to IoT Enterprise.
+
+---
+
 ## Reinstall Windows
 
 - Disconnect all external or non-boot internal drives to reduce installation risks.
