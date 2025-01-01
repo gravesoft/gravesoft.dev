@@ -95,7 +95,7 @@ It's highly recommended to backup your critical data on some online drive as wel
 - Next question, how do we install this edition?  
   - For GAC version, you don't need IoT Enterprise ISO, you can simply use regular Windows 11 24H2 consumer (linked at the top) or business ISO.
   - For LTSC version, you need to download the full version of LTSC ISO (don't use eval), it doesn't have to be IoT ISO, you can download a normal LTSC ISO in your language.
-  - Once you have flashed the required ISO with Rufus, go to the `\sources\` folder in USB and create a text file named `PID.txt` (be careful about the file extension) and enter the below text.
+  - After flashing the required ISO using Rufus, navigate to the `\sources\` folder on the USB drive and create a file named `PID.txt` (ensure the file extension is correct). Open this file with Notepad and enter the text below.
     - For GAC version  
 	  ```
 	  [PID]
@@ -113,7 +113,24 @@ Alternatively, if you don't want to do that, you can install Windows normally an
 
 ---
 
-## Reinstall Windows
+## Edition List During Windows Installation
+
+- If your system has an OEM license installed by the manufacturer on the motherboard, then the Windows setup will not show the edition list and will automatically select the edition based on the license on the motherboard.
+- If you have such hardware and want to view the list of available editions for Windows installation, follow the steps below.
+- After flashing the required ISO using Rufus, navigate to the `\sources\` folder on the USB drive and create a file named `ei.cfg` (ensure the file extension is correct). Open this file with Notepad and enter the text below.
+```
+[Channel]
+NoKeyChannel
+```
+- Now you can view the edition list and pick the edition you want from Windows Vista to Windows 11. It also helps you avoid installing key in Windows 8/8.1 setup where key installation can not be skipped.
+
+**Notes:**  
+- In Windows 11 24H2, the new installer does not support this, so you need to select the "old" installer option when the setup starts.
+- If you are using PID.txt, please note that it will take precedence over ei.cfg.
+
+---
+
+## Clean Install Windows
 
 - Disconnect all external or non-boot internal drives to reduce installation risks.
 - Restart your PC and boot from the USB flash drive, typically accessed by pressing F11 or F12 during startup. If it's not working for you then google for example "Asus Zephyrus G14 boot menu key" and find the results for your model number.
