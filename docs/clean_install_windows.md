@@ -133,7 +133,7 @@ NoKeyChannel
 ## Clean Install Windows
 
 - Disconnect all external or non-boot internal drives to reduce installation risks.
-- Restart your PC and boot from the USB flash drive, typically accessed by pressing F11 or F12 during startup. If it's not working for you then google for example "Asus Zephyrus G14 boot menu key" and find the results for your model number.
+- Restart your PC and boot from the USB flash drive, typically accessed by pressing F11 or F12 during startup. If it's not working for you then Google the type of device you have followed by "boot menu key", for example, "Asus Zephyrus G14 boot menu key" and find the results for your model number.
 - Follow on-screen instructions.
   - Choose "Custom: Install Windows only (advanced)" for a clean install.
   - Delete all partitions on the boot drive, or if you want to save data partitions then delete only the C drive and other small system partitions, and select the unallocated space created.
