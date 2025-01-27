@@ -39,7 +39,7 @@ import TabItem from '@theme/TabItem';
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=en-us&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=en-us&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=en-us&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=en-us&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/O365BusinessRetail.img) |  
@@ -52,7 +52,7 @@ import TabItem from '@theme/TabItem';
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=en-us&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=en-us&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=en-us&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=en-us&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/Excel2024Retail.img) |  
@@ -69,7 +69,7 @@ import TabItem from '@theme/TabItem';
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=en-us&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=en-us&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=en-us&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=en-us&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/Excel2021Retail.img) |  
@@ -92,7 +92,7 @@ import TabItem from '@theme/TabItem';
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=en-us&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=en-us&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=en-us&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=en-us&version=O16GA) |   NA |  
@@ -116,7 +116,7 @@ import TabItem from '@theme/TabItem';
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=en-us&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=en-us&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=en-us&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=en-us&version=O16GA) |   NA |  
@@ -154,7 +154,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=en-us&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=en-us&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/en-us/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=en-us&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=en-us&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/en-us/ExcelRetail.img) |  
@@ -193,7 +193,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=ar-sa&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=ar-sa&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ar-sa/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=ar-sa&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=ar-sa&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ar-sa/O365BusinessRetail.img) |  
@@ -206,7 +206,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=ar-sa&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=ar-sa&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ar-sa/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=ar-sa&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=ar-sa&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ar-sa/Excel2024Retail.img) |  
@@ -223,7 +223,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=ar-sa&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=ar-sa&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ar-sa/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=ar-sa&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=ar-sa&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ar-sa/Excel2021Retail.img) |  
@@ -246,7 +246,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=ar-sa&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=ar-sa&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ar-sa/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=ar-sa&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=ar-sa&version=O16GA) |   NA |  
@@ -270,7 +270,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=ar-sa&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=ar-sa&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ar-sa/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=ar-sa&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=ar-sa&version=O16GA) |   NA |  
@@ -308,7 +308,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=ar-sa&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=ar-sa&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/ar-sa/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=ar-sa&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=ar-sa&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/ar-sa/ExcelRetail.img) |  
@@ -347,7 +347,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=bg-bg&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=bg-bg&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/bg-bg/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=bg-bg&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=bg-bg&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/bg-bg/O365BusinessRetail.img) |  
@@ -360,7 +360,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=bg-bg&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=bg-bg&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/bg-bg/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=bg-bg&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=bg-bg&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/bg-bg/Excel2024Retail.img) |  
@@ -377,7 +377,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=bg-bg&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=bg-bg&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/bg-bg/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=bg-bg&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=bg-bg&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/bg-bg/Excel2021Retail.img) |  
@@ -400,7 +400,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=bg-bg&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=bg-bg&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/bg-bg/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=bg-bg&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=bg-bg&version=O16GA) |   NA |  
@@ -424,7 +424,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=bg-bg&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=bg-bg&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/bg-bg/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=bg-bg&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=bg-bg&version=O16GA) |   NA |  
@@ -462,7 +462,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=bg-bg&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=bg-bg&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/bg-bg/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=bg-bg&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=bg-bg&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/bg-bg/ExcelRetail.img) |  
@@ -501,7 +501,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=cs-cz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=cs-cz&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/cs-cz/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=cs-cz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=cs-cz&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/cs-cz/O365BusinessRetail.img) |  
@@ -514,7 +514,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=cs-cz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=cs-cz&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/cs-cz/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=cs-cz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=cs-cz&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/cs-cz/Excel2024Retail.img) |  
@@ -531,7 +531,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=cs-cz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=cs-cz&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/cs-cz/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=cs-cz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=cs-cz&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/cs-cz/Excel2021Retail.img) |  
@@ -554,7 +554,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=cs-cz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=cs-cz&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/cs-cz/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=cs-cz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=cs-cz&version=O16GA) |   NA |  
@@ -578,7 +578,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=cs-cz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=cs-cz&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/cs-cz/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=cs-cz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=cs-cz&version=O16GA) |   NA |  
@@ -616,7 +616,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=cs-cz&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=cs-cz&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/cs-cz/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=cs-cz&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=cs-cz&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/cs-cz/ExcelRetail.img) |  
@@ -655,7 +655,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=da-dk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=da-dk&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/da-dk/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=da-dk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=da-dk&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/da-dk/O365BusinessRetail.img) |  
@@ -668,7 +668,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=da-dk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=da-dk&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/da-dk/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=da-dk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=da-dk&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/da-dk/Excel2024Retail.img) |  
@@ -685,7 +685,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=da-dk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=da-dk&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/da-dk/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=da-dk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=da-dk&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/da-dk/Excel2021Retail.img) |  
@@ -708,7 +708,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=da-dk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=da-dk&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/da-dk/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=da-dk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=da-dk&version=O16GA) |   NA |  
@@ -732,7 +732,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=da-dk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=da-dk&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/da-dk/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=da-dk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=da-dk&version=O16GA) |   NA |  
@@ -770,7 +770,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=da-dk&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=da-dk&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/da-dk/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=da-dk&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=da-dk&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/da-dk/ExcelRetail.img) |  
@@ -809,7 +809,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=de-de&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=de-de&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/de-de/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=de-de&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=de-de&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/de-de/O365BusinessRetail.img) |  
@@ -822,7 +822,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=de-de&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=de-de&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/de-de/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=de-de&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=de-de&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/de-de/Excel2024Retail.img) |  
@@ -839,7 +839,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=de-de&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=de-de&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/de-de/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=de-de&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=de-de&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/de-de/Excel2021Retail.img) |  
@@ -862,7 +862,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=de-de&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=de-de&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/de-de/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=de-de&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=de-de&version=O16GA) |   NA |  
@@ -886,7 +886,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=de-de&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=de-de&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/de-de/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=de-de&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=de-de&version=O16GA) |   NA |  
@@ -924,7 +924,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=de-de&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=de-de&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/de-de/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=de-de&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=de-de&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/de-de/ExcelRetail.img) |  
@@ -963,7 +963,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=el-gr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=el-gr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/el-gr/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=el-gr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=el-gr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/el-gr/O365BusinessRetail.img) |  
@@ -976,7 +976,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=el-gr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=el-gr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/el-gr/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=el-gr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=el-gr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/el-gr/Excel2024Retail.img) |  
@@ -993,7 +993,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=el-gr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=el-gr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/el-gr/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=el-gr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=el-gr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/el-gr/Excel2021Retail.img) |  
@@ -1016,7 +1016,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=el-gr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=el-gr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/el-gr/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=el-gr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=el-gr&version=O16GA) |   NA |  
@@ -1040,7 +1040,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=el-gr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=el-gr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/el-gr/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=el-gr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=el-gr&version=O16GA) |   NA |  
@@ -1078,7 +1078,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=el-gr&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=el-gr&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/el-gr/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=el-gr&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=el-gr&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/el-gr/ExcelRetail.img) |  
@@ -1117,7 +1117,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=en-gb&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=en-gb&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-gb/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=en-gb&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=en-gb&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-gb/O365BusinessRetail.img) |  
@@ -1130,7 +1130,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=en-gb&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=en-gb&version=O16GA) |   NA |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=en-gb&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=en-gb&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-gb/Excel2024Retail.img) |  
@@ -1147,7 +1147,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=en-gb&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=en-gb&version=O16GA) |   NA |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=en-gb&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=en-gb&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-gb/Excel2021Retail.img) |  
@@ -1170,7 +1170,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=en-gb&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=en-gb&version=O16GA) |   NA |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=en-gb&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=en-gb&version=O16GA) |   NA |  
@@ -1194,7 +1194,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=en-gb&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=en-gb&version=O16GA) |   NA |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=en-gb&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=en-gb&version=O16GA) |   NA |  
@@ -1232,7 +1232,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |   NA |   NA |   NA |  
 | **ExcelRetail** | Excel |   NA |   NA |   NA |  
@@ -1271,7 +1271,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=es-es&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=es-es&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=es-es&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=es-es&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/O365BusinessRetail.img) |  
@@ -1284,7 +1284,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=es-es&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=es-es&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=es-es&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=es-es&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/Excel2024Retail.img) |  
@@ -1301,7 +1301,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=es-es&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=es-es&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=es-es&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=es-es&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/Excel2021Retail.img) |  
@@ -1324,7 +1324,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=es-es&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=es-es&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=es-es&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=es-es&version=O16GA) |   NA |  
@@ -1348,7 +1348,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=es-es&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=es-es&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=es-es&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=es-es&version=O16GA) |   NA |  
@@ -1386,7 +1386,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=es-es&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=es-es&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/es-es/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=es-es&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=es-es&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/es-es/ExcelRetail.img) |  
@@ -1425,7 +1425,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=es-mx&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=es-mx&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-mx/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=es-mx&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=es-mx&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-mx/O365BusinessRetail.img) |  
@@ -1438,7 +1438,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=es-mx&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=es-mx&version=O16GA) |   NA |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=es-mx&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=es-mx&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-mx/Excel2024Retail.img) |  
@@ -1455,7 +1455,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=es-mx&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=es-mx&version=O16GA) |   NA |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=es-mx&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=es-mx&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-mx/Excel2021Retail.img) |  
@@ -1478,7 +1478,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=es-mx&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=es-mx&version=O16GA) |   NA |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=es-mx&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=es-mx&version=O16GA) |   NA |  
@@ -1502,7 +1502,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=es-mx&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=es-mx&version=O16GA) |   NA |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=es-mx&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=es-mx&version=O16GA) |   NA |  
@@ -1540,7 +1540,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |   NA |   NA |   NA |  
 | **ExcelRetail** | Excel |   NA |   NA |   NA |  
@@ -1579,7 +1579,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=et-ee&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=et-ee&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/et-ee/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=et-ee&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=et-ee&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/et-ee/O365BusinessRetail.img) |  
@@ -1592,7 +1592,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=et-ee&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=et-ee&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/et-ee/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=et-ee&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=et-ee&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/et-ee/Excel2024Retail.img) |  
@@ -1609,7 +1609,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=et-ee&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=et-ee&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/et-ee/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=et-ee&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=et-ee&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/et-ee/Excel2021Retail.img) |  
@@ -1632,7 +1632,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=et-ee&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=et-ee&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/et-ee/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=et-ee&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=et-ee&version=O16GA) |   NA |  
@@ -1656,7 +1656,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=et-ee&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=et-ee&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/et-ee/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=et-ee&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=et-ee&version=O16GA) |   NA |  
@@ -1694,7 +1694,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=et-ee&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=et-ee&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/et-ee/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=et-ee&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=et-ee&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/et-ee/ExcelRetail.img) |  
@@ -1733,7 +1733,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=fi-fi&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=fi-fi&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fi-fi/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=fi-fi&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=fi-fi&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fi-fi/O365BusinessRetail.img) |  
@@ -1746,7 +1746,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=fi-fi&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=fi-fi&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fi-fi/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=fi-fi&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=fi-fi&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fi-fi/Excel2024Retail.img) |  
@@ -1763,7 +1763,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=fi-fi&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=fi-fi&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fi-fi/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=fi-fi&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=fi-fi&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fi-fi/Excel2021Retail.img) |  
@@ -1786,7 +1786,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=fi-fi&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=fi-fi&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fi-fi/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=fi-fi&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=fi-fi&version=O16GA) |   NA |  
@@ -1810,7 +1810,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=fi-fi&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=fi-fi&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fi-fi/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=fi-fi&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=fi-fi&version=O16GA) |   NA |  
@@ -1848,7 +1848,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=fi-fi&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=fi-fi&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/fi-fi/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=fi-fi&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=fi-fi&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/fi-fi/ExcelRetail.img) |  
@@ -1887,7 +1887,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=fr-ca&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=fr-ca&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fr-ca/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=fr-ca&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=fr-ca&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fr-ca/O365BusinessRetail.img) |  
@@ -1900,7 +1900,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=fr-ca&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=fr-ca&version=O16GA) |   NA |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=fr-ca&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=fr-ca&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fr-ca/Excel2024Retail.img) |  
@@ -1917,7 +1917,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=fr-ca&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=fr-ca&version=O16GA) |   NA |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=fr-ca&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=fr-ca&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fr-ca/Excel2021Retail.img) |  
@@ -1940,7 +1940,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=fr-ca&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=fr-ca&version=O16GA) |   NA |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=fr-ca&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=fr-ca&version=O16GA) |   NA |  
@@ -1964,7 +1964,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=fr-ca&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=fr-ca&version=O16GA) |   NA |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=fr-ca&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=fr-ca&version=O16GA) |   NA |  
@@ -2002,7 +2002,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |   NA |   NA |   NA |  
 | **ExcelRetail** | Excel |   NA |   NA |   NA |  
@@ -2041,7 +2041,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=fr-fr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=fr-fr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fr-fr/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=fr-fr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=fr-fr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fr-fr/O365BusinessRetail.img) |  
@@ -2054,7 +2054,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=fr-fr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=fr-fr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fr-fr/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=fr-fr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=fr-fr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fr-fr/Excel2024Retail.img) |  
@@ -2071,7 +2071,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=fr-fr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=fr-fr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fr-fr/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=fr-fr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=fr-fr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fr-fr/Excel2021Retail.img) |  
@@ -2094,7 +2094,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=fr-fr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=fr-fr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fr-fr/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=fr-fr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=fr-fr&version=O16GA) |   NA |  
@@ -2118,7 +2118,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=fr-fr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=fr-fr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fr-fr/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=fr-fr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=fr-fr&version=O16GA) |   NA |  
@@ -2156,7 +2156,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=fr-fr&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=fr-fr&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/fr-fr/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=fr-fr&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=fr-fr&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/fr-fr/ExcelRetail.img) |  
@@ -2195,7 +2195,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=he-il&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=he-il&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/he-il/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=he-il&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=he-il&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/he-il/O365BusinessRetail.img) |  
@@ -2208,7 +2208,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=he-il&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=he-il&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/he-il/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=he-il&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=he-il&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/he-il/Excel2024Retail.img) |  
@@ -2225,7 +2225,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=he-il&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=he-il&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/he-il/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=he-il&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=he-il&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/he-il/Excel2021Retail.img) |  
@@ -2248,7 +2248,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=he-il&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=he-il&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/he-il/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=he-il&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=he-il&version=O16GA) |   NA |  
@@ -2272,7 +2272,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=he-il&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=he-il&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/he-il/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=he-il&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=he-il&version=O16GA) |   NA |  
@@ -2310,7 +2310,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=he-il&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=he-il&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/he-il/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=he-il&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=he-il&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/he-il/ExcelRetail.img) |  
@@ -2349,7 +2349,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=hi-in&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=hi-in&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hi-in/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=hi-in&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=hi-in&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hi-in/O365BusinessRetail.img) |  
@@ -2362,7 +2362,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |   NA |   NA |   NA |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=hi-in&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=hi-in&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hi-in/Excel2024Retail.img) |  
@@ -2379,7 +2379,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |   NA |   NA |   NA |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=hi-in&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=hi-in&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hi-in/Excel2021Retail.img) |  
@@ -2402,7 +2402,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |   NA |   NA |   NA |  
 | **AccessRuntime2019Retail** | Access |   NA |   NA |   NA |  
@@ -2426,7 +2426,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |   NA |   NA |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hi-in/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |   NA |   NA |   NA |  
@@ -2464,7 +2464,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=hi-in&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=hi-in&version=O15GA) |   NA |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=hi-in&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=hi-in&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/hi-in/ExcelRetail.img) |  
@@ -2503,7 +2503,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=hr-hr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=hr-hr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hr-hr/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=hr-hr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=hr-hr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hr-hr/O365BusinessRetail.img) |  
@@ -2516,7 +2516,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=hr-hr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=hr-hr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hr-hr/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=hr-hr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=hr-hr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hr-hr/Excel2024Retail.img) |  
@@ -2533,7 +2533,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=hr-hr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=hr-hr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hr-hr/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=hr-hr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=hr-hr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hr-hr/Excel2021Retail.img) |  
@@ -2556,7 +2556,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=hr-hr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=hr-hr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hr-hr/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=hr-hr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=hr-hr&version=O16GA) |   NA |  
@@ -2580,7 +2580,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=hr-hr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=hr-hr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hr-hr/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=hr-hr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=hr-hr&version=O16GA) |   NA |  
@@ -2618,7 +2618,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=hr-hr&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=hr-hr&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/hr-hr/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=hr-hr&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=hr-hr&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/hr-hr/ExcelRetail.img) |  
@@ -2657,7 +2657,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=hu-hu&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=hu-hu&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hu-hu/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=hu-hu&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=hu-hu&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hu-hu/O365BusinessRetail.img) |  
@@ -2670,7 +2670,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=hu-hu&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=hu-hu&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hu-hu/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=hu-hu&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=hu-hu&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hu-hu/Excel2024Retail.img) |  
@@ -2687,7 +2687,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=hu-hu&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=hu-hu&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hu-hu/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=hu-hu&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=hu-hu&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hu-hu/Excel2021Retail.img) |  
@@ -2710,7 +2710,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=hu-hu&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=hu-hu&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hu-hu/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=hu-hu&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=hu-hu&version=O16GA) |   NA |  
@@ -2734,7 +2734,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=hu-hu&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=hu-hu&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hu-hu/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=hu-hu&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=hu-hu&version=O16GA) |   NA |  
@@ -2772,7 +2772,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=hu-hu&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=hu-hu&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/hu-hu/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=hu-hu&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=hu-hu&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/hu-hu/ExcelRetail.img) |  
@@ -2811,7 +2811,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=id-id&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=id-id&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/id-id/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=id-id&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=id-id&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/id-id/O365BusinessRetail.img) |  
@@ -2824,7 +2824,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=id-id&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=id-id&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/id-id/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=id-id&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=id-id&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/id-id/Excel2024Retail.img) |  
@@ -2841,7 +2841,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=id-id&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=id-id&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/id-id/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=id-id&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=id-id&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/id-id/Excel2021Retail.img) |  
@@ -2864,7 +2864,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=id-id&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=id-id&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/id-id/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=id-id&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=id-id&version=O16GA) |   NA |  
@@ -2888,7 +2888,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=id-id&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=id-id&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/id-id/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=id-id&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=id-id&version=O16GA) |   NA |  
@@ -2926,7 +2926,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=id-id&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=id-id&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/id-id/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=id-id&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=id-id&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/id-id/ExcelRetail.img) |  
@@ -2965,7 +2965,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=it-it&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=it-it&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/it-it/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=it-it&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=it-it&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/it-it/O365BusinessRetail.img) |  
@@ -2978,7 +2978,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=it-it&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=it-it&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/it-it/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=it-it&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=it-it&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/it-it/Excel2024Retail.img) |  
@@ -2995,7 +2995,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=it-it&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=it-it&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/it-it/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=it-it&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=it-it&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/it-it/Excel2021Retail.img) |  
@@ -3018,7 +3018,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=it-it&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=it-it&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/it-it/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=it-it&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=it-it&version=O16GA) |   NA |  
@@ -3042,7 +3042,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=it-it&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=it-it&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/it-it/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=it-it&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=it-it&version=O16GA) |   NA |  
@@ -3080,7 +3080,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=it-it&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=it-it&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/it-it/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=it-it&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=it-it&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/it-it/ExcelRetail.img) |  
@@ -3119,7 +3119,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=ja-jp&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=ja-jp&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ja-jp/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=ja-jp&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=ja-jp&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ja-jp/O365BusinessRetail.img) |  
@@ -3132,7 +3132,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=ja-jp&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=ja-jp&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ja-jp/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=ja-jp&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=ja-jp&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ja-jp/Excel2024Retail.img) |  
@@ -3149,7 +3149,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=ja-jp&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=ja-jp&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ja-jp/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=ja-jp&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=ja-jp&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ja-jp/Excel2021Retail.img) |  
@@ -3172,7 +3172,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=ja-jp&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=ja-jp&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ja-jp/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=ja-jp&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=ja-jp&version=O16GA) |   NA |  
@@ -3196,7 +3196,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=ja-jp&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=ja-jp&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ja-jp/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=ja-jp&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=ja-jp&version=O16GA) |   NA |  
@@ -3234,7 +3234,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=ja-jp&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=ja-jp&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/ja-jp/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=ja-jp&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=ja-jp&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/ja-jp/ExcelRetail.img) |  
@@ -3273,7 +3273,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=kk-kz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=kk-kz&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/kk-kz/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=kk-kz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=kk-kz&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/kk-kz/O365BusinessRetail.img) |  
@@ -3286,7 +3286,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |   NA |   NA |   NA |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=kk-kz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=kk-kz&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/kk-kz/Excel2024Retail.img) |  
@@ -3303,7 +3303,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |   NA |   NA |   NA |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=kk-kz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=kk-kz&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/kk-kz/Excel2021Retail.img) |  
@@ -3326,7 +3326,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |   NA |   NA |   NA |  
 | **AccessRuntime2019Retail** | Access |   NA |   NA |   NA |  
@@ -3350,7 +3350,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |   NA |   NA |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/kk-kz/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |   NA |   NA |   NA |  
@@ -3388,7 +3388,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=kk-kz&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=kk-kz&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/kk-kz/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=kk-kz&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=kk-kz&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/kk-kz/ExcelRetail.img) |  
@@ -3427,7 +3427,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=ko-kr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=ko-kr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ko-kr/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=ko-kr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=ko-kr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ko-kr/O365BusinessRetail.img) |  
@@ -3440,7 +3440,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=ko-kr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=ko-kr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ko-kr/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=ko-kr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=ko-kr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ko-kr/Excel2024Retail.img) |  
@@ -3457,7 +3457,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=ko-kr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=ko-kr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ko-kr/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=ko-kr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=ko-kr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ko-kr/Excel2021Retail.img) |  
@@ -3480,7 +3480,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=ko-kr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=ko-kr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ko-kr/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=ko-kr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=ko-kr&version=O16GA) |   NA |  
@@ -3504,7 +3504,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=ko-kr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=ko-kr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ko-kr/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=ko-kr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=ko-kr&version=O16GA) |   NA |  
@@ -3542,7 +3542,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=ko-kr&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=ko-kr&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/ko-kr/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=ko-kr&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=ko-kr&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/ko-kr/ExcelRetail.img) |  
@@ -3581,7 +3581,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=lt-lt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=lt-lt&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/lt-lt/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=lt-lt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=lt-lt&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/lt-lt/O365BusinessRetail.img) |  
@@ -3594,7 +3594,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=lt-lt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=lt-lt&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/lt-lt/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=lt-lt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=lt-lt&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/lt-lt/Excel2024Retail.img) |  
@@ -3611,7 +3611,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=lt-lt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=lt-lt&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/lt-lt/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=lt-lt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=lt-lt&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/lt-lt/Excel2021Retail.img) |  
@@ -3634,7 +3634,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=lt-lt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=lt-lt&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/lt-lt/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=lt-lt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=lt-lt&version=O16GA) |   NA |  
@@ -3658,7 +3658,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=lt-lt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=lt-lt&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/lt-lt/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=lt-lt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=lt-lt&version=O16GA) |   NA |  
@@ -3696,7 +3696,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=lt-lt&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=lt-lt&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/lt-lt/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=lt-lt&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=lt-lt&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/lt-lt/ExcelRetail.img) |  
@@ -3735,7 +3735,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=lv-lv&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=lv-lv&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/lv-lv/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=lv-lv&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=lv-lv&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/lv-lv/O365BusinessRetail.img) |  
@@ -3748,7 +3748,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=lv-lv&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=lv-lv&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/lv-lv/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=lv-lv&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=lv-lv&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/lv-lv/Excel2024Retail.img) |  
@@ -3765,7 +3765,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=lv-lv&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=lv-lv&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/lv-lv/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=lv-lv&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=lv-lv&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/lv-lv/Excel2021Retail.img) |  
@@ -3788,7 +3788,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=lv-lv&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=lv-lv&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/lv-lv/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=lv-lv&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=lv-lv&version=O16GA) |   NA |  
@@ -3812,7 +3812,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=lv-lv&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=lv-lv&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/lv-lv/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=lv-lv&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=lv-lv&version=O16GA) |   NA |  
@@ -3850,7 +3850,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=lv-lv&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=lv-lv&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/lv-lv/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=lv-lv&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=lv-lv&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/lv-lv/ExcelRetail.img) |  
@@ -3889,7 +3889,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=ms-my&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=ms-my&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ms-my/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=ms-my&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=ms-my&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ms-my/O365BusinessRetail.img) |  
@@ -3902,7 +3902,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |   NA |   NA |   NA |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=ms-my&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=ms-my&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ms-my/Excel2024Retail.img) |  
@@ -3919,7 +3919,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |   NA |   NA |   NA |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=ms-my&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=ms-my&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ms-my/Excel2021Retail.img) |  
@@ -3942,7 +3942,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |   NA |   NA |   NA |  
 | **AccessRuntime2019Retail** | Access |   NA |   NA |   NA |  
@@ -3966,7 +3966,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |   NA |   NA |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ms-my/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |   NA |   NA |   NA |  
@@ -4004,7 +4004,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=ms-my&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=ms-my&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/ms-my/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=ms-my&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=ms-my&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/ms-my/ExcelRetail.img) |  
@@ -4043,7 +4043,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=nb-no&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=nb-no&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/nb-no/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=nb-no&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=nb-no&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/nb-no/O365BusinessRetail.img) |  
@@ -4056,7 +4056,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=nb-no&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=nb-no&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/nb-no/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=nb-no&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=nb-no&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/nb-no/Excel2024Retail.img) |  
@@ -4073,7 +4073,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=nb-no&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=nb-no&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/nb-no/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=nb-no&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=nb-no&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/nb-no/Excel2021Retail.img) |  
@@ -4096,7 +4096,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=nb-no&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=nb-no&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/nb-no/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=nb-no&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=nb-no&version=O16GA) |   NA |  
@@ -4120,7 +4120,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=nb-no&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=nb-no&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/nb-no/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=nb-no&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=nb-no&version=O16GA) |   NA |  
@@ -4158,7 +4158,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=nb-no&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=nb-no&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/nb-no/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=nb-no&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=nb-no&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/nb-no/ExcelRetail.img) |  
@@ -4197,7 +4197,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=nl-nl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=nl-nl&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/nl-nl/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=nl-nl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=nl-nl&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/nl-nl/O365BusinessRetail.img) |  
@@ -4210,7 +4210,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=nl-nl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=nl-nl&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/nl-nl/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=nl-nl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=nl-nl&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/nl-nl/Excel2024Retail.img) |  
@@ -4227,7 +4227,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=nl-nl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=nl-nl&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/nl-nl/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=nl-nl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=nl-nl&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/nl-nl/Excel2021Retail.img) |  
@@ -4250,7 +4250,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=nl-nl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=nl-nl&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/nl-nl/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=nl-nl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=nl-nl&version=O16GA) |   NA |  
@@ -4274,7 +4274,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=nl-nl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=nl-nl&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/nl-nl/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=nl-nl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=nl-nl&version=O16GA) |   NA |  
@@ -4312,7 +4312,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=nl-nl&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=nl-nl&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/nl-nl/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=nl-nl&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=nl-nl&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/nl-nl/ExcelRetail.img) |  
@@ -4351,7 +4351,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=pl-pl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=pl-pl&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pl-pl/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=pl-pl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=pl-pl&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pl-pl/O365BusinessRetail.img) |  
@@ -4364,7 +4364,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=pl-pl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=pl-pl&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pl-pl/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=pl-pl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=pl-pl&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pl-pl/Excel2024Retail.img) |  
@@ -4381,7 +4381,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=pl-pl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=pl-pl&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pl-pl/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=pl-pl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=pl-pl&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pl-pl/Excel2021Retail.img) |  
@@ -4404,7 +4404,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=pl-pl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=pl-pl&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pl-pl/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=pl-pl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=pl-pl&version=O16GA) |   NA |  
@@ -4428,7 +4428,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=pl-pl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=pl-pl&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pl-pl/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=pl-pl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=pl-pl&version=O16GA) |   NA |  
@@ -4466,7 +4466,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=pl-pl&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=pl-pl&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/pl-pl/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=pl-pl&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=pl-pl&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/pl-pl/ExcelRetail.img) |  
@@ -4505,7 +4505,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=pt-br&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=pt-br&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-br/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=pt-br&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=pt-br&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-br/O365BusinessRetail.img) |  
@@ -4518,7 +4518,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=pt-br&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=pt-br&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-br/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=pt-br&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=pt-br&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-br/Excel2024Retail.img) |  
@@ -4535,7 +4535,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=pt-br&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=pt-br&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-br/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=pt-br&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=pt-br&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-br/Excel2021Retail.img) |  
@@ -4558,7 +4558,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=pt-br&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=pt-br&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-br/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=pt-br&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=pt-br&version=O16GA) |   NA |  
@@ -4582,7 +4582,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=pt-br&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=pt-br&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-br/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=pt-br&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=pt-br&version=O16GA) |   NA |  
@@ -4620,7 +4620,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=pt-br&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=pt-br&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/pt-br/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=pt-br&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=pt-br&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/pt-br/ExcelRetail.img) |  
@@ -4659,7 +4659,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=pt-pt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=pt-pt&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-pt/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=pt-pt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=pt-pt&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-pt/O365BusinessRetail.img) |  
@@ -4672,7 +4672,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=pt-pt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=pt-pt&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-pt/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=pt-pt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=pt-pt&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-pt/Excel2024Retail.img) |  
@@ -4689,7 +4689,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=pt-pt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=pt-pt&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-pt/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=pt-pt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=pt-pt&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-pt/Excel2021Retail.img) |  
@@ -4712,7 +4712,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=pt-pt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=pt-pt&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-pt/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=pt-pt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=pt-pt&version=O16GA) |   NA |  
@@ -4736,7 +4736,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=pt-pt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=pt-pt&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-pt/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=pt-pt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=pt-pt&version=O16GA) |   NA |  
@@ -4774,7 +4774,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=pt-pt&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=pt-pt&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/pt-pt/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=pt-pt&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=pt-pt&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/pt-pt/ExcelRetail.img) |  
@@ -4813,7 +4813,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=ro-ro&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=ro-ro&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ro-ro/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=ro-ro&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=ro-ro&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ro-ro/O365BusinessRetail.img) |  
@@ -4826,7 +4826,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=ro-ro&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=ro-ro&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ro-ro/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=ro-ro&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=ro-ro&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ro-ro/Excel2024Retail.img) |  
@@ -4843,7 +4843,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=ro-ro&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=ro-ro&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ro-ro/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=ro-ro&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=ro-ro&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ro-ro/Excel2021Retail.img) |  
@@ -4866,7 +4866,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=ro-ro&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=ro-ro&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ro-ro/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=ro-ro&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=ro-ro&version=O16GA) |   NA |  
@@ -4890,7 +4890,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=ro-ro&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=ro-ro&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ro-ro/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=ro-ro&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=ro-ro&version=O16GA) |   NA |  
@@ -4928,7 +4928,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=ro-ro&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=ro-ro&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/ro-ro/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=ro-ro&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=ro-ro&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/ro-ro/ExcelRetail.img) |  
@@ -4967,7 +4967,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=ru-ru&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=ru-ru&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-ru/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=ru-ru&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=ru-ru&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-ru/O365BusinessRetail.img) |  
@@ -4980,7 +4980,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=ru-ru&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=ru-ru&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-ru/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=ru-ru&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=ru-ru&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-ru/Excel2024Retail.img) |  
@@ -4997,7 +4997,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=ru-ru&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=ru-ru&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-ru/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=ru-ru&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=ru-ru&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-ru/Excel2021Retail.img) |  
@@ -5020,7 +5020,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=ru-ru&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=ru-ru&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-ru/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=ru-ru&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=ru-ru&version=O16GA) |   NA |  
@@ -5044,7 +5044,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=ru-ru&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=ru-ru&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-ru/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=ru-ru&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=ru-ru&version=O16GA) |   NA |  
@@ -5082,7 +5082,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=ru-ru&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=ru-ru&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/ru-ru/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=ru-ru&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=ru-ru&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/ru-ru/ExcelRetail.img) |  
@@ -5121,7 +5121,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=sk-sk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=sk-sk&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sk-sk/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=sk-sk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=sk-sk&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sk-sk/O365BusinessRetail.img) |  
@@ -5134,7 +5134,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=sk-sk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=sk-sk&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sk-sk/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=sk-sk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=sk-sk&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sk-sk/Excel2024Retail.img) |  
@@ -5151,7 +5151,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=sk-sk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=sk-sk&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sk-sk/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=sk-sk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=sk-sk&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sk-sk/Excel2021Retail.img) |  
@@ -5174,7 +5174,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=sk-sk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=sk-sk&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sk-sk/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=sk-sk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=sk-sk&version=O16GA) |   NA |  
@@ -5198,7 +5198,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=sk-sk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=sk-sk&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sk-sk/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=sk-sk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=sk-sk&version=O16GA) |   NA |  
@@ -5236,7 +5236,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=sk-sk&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=sk-sk&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/sk-sk/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=sk-sk&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=sk-sk&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/sk-sk/ExcelRetail.img) |  
@@ -5275,7 +5275,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=sl-si&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=sl-si&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sl-si/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=sl-si&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=sl-si&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sl-si/O365BusinessRetail.img) |  
@@ -5288,7 +5288,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=sl-si&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=sl-si&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sl-si/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=sl-si&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=sl-si&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sl-si/Excel2024Retail.img) |  
@@ -5305,7 +5305,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=sl-si&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=sl-si&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sl-si/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=sl-si&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=sl-si&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sl-si/Excel2021Retail.img) |  
@@ -5328,7 +5328,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=sl-si&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=sl-si&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sl-si/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=sl-si&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=sl-si&version=O16GA) |   NA |  
@@ -5352,7 +5352,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=sl-si&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=sl-si&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sl-si/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=sl-si&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=sl-si&version=O16GA) |   NA |  
@@ -5390,7 +5390,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=sl-si&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=sl-si&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/sl-si/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=sl-si&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=sl-si&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/sl-si/ExcelRetail.img) |  
@@ -5429,7 +5429,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |   NA |   NA |   NA |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |   NA |   NA |   NA |  
@@ -5442,7 +5442,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |   NA |   NA |   NA |  
 | **Excel2024Retail** | Excel, OneDrive |   NA |   NA |   NA |  
@@ -5459,7 +5459,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |   NA |   NA |   NA |  
 | **Excel2021Retail** | Excel, OneDrive |   NA |   NA |   NA |  
@@ -5482,7 +5482,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |   NA |   NA |   NA |  
 | **AccessRuntime2019Retail** | Access |   NA |   NA |   NA |  
@@ -5506,7 +5506,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |   NA |   NA |   NA |  
 | **AccessRuntimeRetail** | Access |   NA |   NA |   NA |  
@@ -5544,7 +5544,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=sr-latn-cs&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=sr-latn-cs&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/sr-latn-cs/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=sr-latn-cs&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=sr-latn-cs&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/sr-latn-cs/ExcelRetail.img) |  
@@ -5583,7 +5583,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=sr-latn-rs&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=sr-latn-rs&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sr-latn-rs/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=sr-latn-rs&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=sr-latn-rs&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sr-latn-rs/O365BusinessRetail.img) |  
@@ -5596,7 +5596,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=sr-latn-rs&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=sr-latn-rs&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sr-latn-rs/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=sr-latn-rs&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=sr-latn-rs&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sr-latn-rs/Excel2024Retail.img) |  
@@ -5613,7 +5613,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=sr-latn-rs&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=sr-latn-rs&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sr-latn-rs/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=sr-latn-rs&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=sr-latn-rs&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sr-latn-rs/Excel2021Retail.img) |  
@@ -5636,7 +5636,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=sr-latn-rs&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=sr-latn-rs&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sr-latn-rs/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=sr-latn-rs&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=sr-latn-rs&version=O16GA) |   NA |  
@@ -5660,7 +5660,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=sr-latn-rs&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=sr-latn-rs&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sr-latn-rs/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=sr-latn-rs&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=sr-latn-rs&version=O16GA) |   NA |  
@@ -5698,7 +5698,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |   NA |   NA |   NA |  
 | **ExcelRetail** | Excel |   NA |   NA |   NA |  
@@ -5737,7 +5737,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=sv-se&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=sv-se&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sv-se/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=sv-se&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=sv-se&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sv-se/O365BusinessRetail.img) |  
@@ -5750,7 +5750,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=sv-se&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=sv-se&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sv-se/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=sv-se&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=sv-se&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sv-se/Excel2024Retail.img) |  
@@ -5767,7 +5767,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=sv-se&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=sv-se&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sv-se/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=sv-se&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=sv-se&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sv-se/Excel2021Retail.img) |  
@@ -5790,7 +5790,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=sv-se&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=sv-se&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sv-se/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=sv-se&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=sv-se&version=O16GA) |   NA |  
@@ -5814,7 +5814,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=sv-se&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=sv-se&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sv-se/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=sv-se&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=sv-se&version=O16GA) |   NA |  
@@ -5852,7 +5852,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=sv-se&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=sv-se&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/sv-se/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=sv-se&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=sv-se&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/sv-se/ExcelRetail.img) |  
@@ -5891,7 +5891,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=th-th&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=th-th&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/th-th/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=th-th&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=th-th&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/th-th/O365BusinessRetail.img) |  
@@ -5904,7 +5904,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=th-th&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=th-th&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/th-th/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=th-th&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=th-th&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/th-th/Excel2024Retail.img) |  
@@ -5921,7 +5921,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=th-th&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=th-th&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/th-th/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=th-th&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=th-th&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/th-th/Excel2021Retail.img) |  
@@ -5944,7 +5944,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=th-th&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=th-th&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/th-th/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=th-th&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=th-th&version=O16GA) |   NA |  
@@ -5968,7 +5968,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=th-th&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=th-th&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/th-th/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=th-th&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=th-th&version=O16GA) |   NA |  
@@ -6006,7 +6006,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=th-th&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=th-th&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/th-th/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=th-th&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=th-th&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/th-th/ExcelRetail.img) |  
@@ -6045,7 +6045,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=tr-tr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=tr-tr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/tr-tr/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=tr-tr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=tr-tr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/tr-tr/O365BusinessRetail.img) |  
@@ -6058,7 +6058,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=tr-tr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=tr-tr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/tr-tr/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=tr-tr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=tr-tr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/tr-tr/Excel2024Retail.img) |  
@@ -6075,7 +6075,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=tr-tr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=tr-tr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/tr-tr/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=tr-tr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=tr-tr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/tr-tr/Excel2021Retail.img) |  
@@ -6098,7 +6098,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=tr-tr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=tr-tr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/tr-tr/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=tr-tr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=tr-tr&version=O16GA) |   NA |  
@@ -6122,7 +6122,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=tr-tr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=tr-tr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/tr-tr/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=tr-tr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=tr-tr&version=O16GA) |   NA |  
@@ -6160,7 +6160,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=tr-tr&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=tr-tr&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/tr-tr/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=tr-tr&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=tr-tr&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/tr-tr/ExcelRetail.img) |  
@@ -6199,7 +6199,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=uk-ua&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=uk-ua&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/uk-ua/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=uk-ua&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=uk-ua&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/uk-ua/O365BusinessRetail.img) |  
@@ -6212,7 +6212,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=uk-ua&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=uk-ua&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/uk-ua/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=uk-ua&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=uk-ua&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/uk-ua/Excel2024Retail.img) |  
@@ -6229,7 +6229,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=uk-ua&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=uk-ua&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/uk-ua/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=uk-ua&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=uk-ua&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/uk-ua/Excel2021Retail.img) |  
@@ -6252,7 +6252,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=uk-ua&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=uk-ua&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/uk-ua/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=uk-ua&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=uk-ua&version=O16GA) |   NA |  
@@ -6276,7 +6276,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=uk-ua&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=uk-ua&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/uk-ua/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=uk-ua&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=uk-ua&version=O16GA) |   NA |  
@@ -6314,7 +6314,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=uk-ua&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=uk-ua&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/uk-ua/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=uk-ua&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=uk-ua&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/uk-ua/ExcelRetail.img) |  
@@ -6353,7 +6353,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=vi-vn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=vi-vn&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/vi-vn/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=vi-vn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=vi-vn&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/vi-vn/O365BusinessRetail.img) |  
@@ -6366,7 +6366,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=vi-vn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=vi-vn&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/vi-vn/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=vi-vn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=vi-vn&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/vi-vn/Excel2024Retail.img) |  
@@ -6383,7 +6383,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=vi-vn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=vi-vn&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/vi-vn/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=vi-vn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=vi-vn&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/vi-vn/Excel2021Retail.img) |  
@@ -6406,7 +6406,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=vi-vn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=vi-vn&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/vi-vn/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=vi-vn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=vi-vn&version=O16GA) |   NA |  
@@ -6430,7 +6430,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=vi-vn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=vi-vn&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/vi-vn/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=vi-vn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=vi-vn&version=O16GA) |   NA |  
@@ -6468,7 +6468,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=vi-vn&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=vi-vn&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/vi-vn/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=vi-vn&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=vi-vn&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/vi-vn/ExcelRetail.img) |  
@@ -6507,7 +6507,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=zh-cn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=zh-cn&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=zh-cn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=zh-cn&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/O365BusinessRetail.img) |  
@@ -6520,7 +6520,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=zh-cn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=zh-cn&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=zh-cn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=zh-cn&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Excel2024Retail.img) |  
@@ -6537,7 +6537,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=zh-cn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=zh-cn&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=zh-cn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=zh-cn&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Excel2021Retail.img) |  
@@ -6560,7 +6560,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=zh-cn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=zh-cn&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=zh-cn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=zh-cn&version=O16GA) |   NA |  
@@ -6584,7 +6584,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=zh-cn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=zh-cn&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=zh-cn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=zh-cn&version=O16GA) |   NA |  
@@ -6622,7 +6622,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=zh-cn&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=zh-cn&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/zh-cn/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=zh-cn&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=zh-cn&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/zh-cn/ExcelRetail.img) |  
@@ -6661,7 +6661,7 @@ Office 2013 installation from Offline installer cannot be updated.
 <Tabs>
 
 <TabItem value="Microsoft 365 / Sub" label="Microsoft 365 / Sub" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **O365ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link ❤️](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=zh-tw&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x86&language=zh-tw&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/O365ProPlusRetail.img) |  
 | **O365BusinessRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x64&language=zh-tw&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365BusinessRetail&platform=x86&language=zh-tw&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/O365BusinessRetail.img) |  
@@ -6674,7 +6674,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2024Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x64&language=zh-tw&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2024Retail&platform=x86&language=zh-tw&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/Access2024Retail.img) |  
 | **Excel2024Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x64&language=zh-tw&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2024Retail&platform=x86&language=zh-tw&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/Excel2024Retail.img) |  
@@ -6691,7 +6691,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2021" label="Office 2021" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2021Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x64&language=zh-tw&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2021Retail&platform=x86&language=zh-tw&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/Access2021Retail.img) |  
 | **Excel2021Retail** | Excel, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x64&language=zh-tw&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Excel2021Retail&platform=x86&language=zh-tw&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/Excel2021Retail.img) |  
@@ -6714,7 +6714,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2019" label="Office 2019" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **Access2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x64&language=zh-tw&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=Access2019Retail&platform=x86&language=zh-tw&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/Access2019Retail.img) |  
 | **AccessRuntime2019Retail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x64&language=zh-tw&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntime2019Retail&platform=x86&language=zh-tw&version=O16GA) |   NA |  
@@ -6738,7 +6738,7 @@ Office 2013 installation from Offline installer cannot be updated.
 </TabItem>
 
 <TabItem value="Office 2016" label="Office 2016" default>
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=zh-tw&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=zh-tw&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/AccessRetail.img) |  
 | **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=zh-tw&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=zh-tw&version=O16GA) |   NA |  
@@ -6776,7 +6776,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::
 
-| Product ID | Included Apps | Online x64 | Online x86 | Offline x86-x64 |
+| Product ID | Included Apps | Online x64 | Online x32 | Offline x32-x64 |
 |--|--|--|--|--|
 | **AccessRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x64&language=zh-tw&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRetail&platform=x86&language=zh-tw&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/zh-tw/AccessRetail.img) |  
 | **ExcelRetail** | Excel |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x64&language=zh-tw&version=O15GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ExcelRetail&platform=x86&language=zh-tw&version=O15GA) |  [Link](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/zh-tw/ExcelRetail.img) |  
