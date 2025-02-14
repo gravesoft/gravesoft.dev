@@ -8,7 +8,9 @@ In-place repair upgrade using Windows ISO file is a good way to fix system error
 
 -   Download the Windows ISO, preferably from [MSDL](https://msdl.gravesoft.dev/) in the **same Windows language, and architecture**.
     -   To check the installed Windows architecture, open Powershell as admin and enter,  
-        `Get-WmiObject -Class Win32_OperatingSystem | Format-List OSArchitecture`  
+        `Get-WmiObject -Class Win32_OperatingSystem | Format-List OSArchitecture`
+        If you are using PowerShell 7 or later and getting error such as `'Get-WmiObject' is not recognized`, use this command instead:
+        `Get-CimInstance -ClassName Win32_OperatingSystem | Format-List OSArchitecture`
         x64 means 64 Bit, x86 means 32 Bit
     -   To check the installed Windows Language, open Powershell as admin and enter,  
         `dism /english /online /get-intl | find /i "Default system UI language"`
