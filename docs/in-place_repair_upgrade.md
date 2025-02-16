@@ -8,8 +8,8 @@ In-place repair upgrade using Windows ISO file is a good way to fix system error
 
 -   Download the Windows ISO, preferably from [MSDL](https://msdl.gravesoft.dev/) in the **same Windows language, and architecture**.
     -   To check the installed Windows architecture, open Powershell as admin and enter,  
-        `[IntPtr].GetType().Assembly.GetName().ProcessorArchitecture`  
-        Amd64/x64 means 64 Bit, x86 means 32 Bit
+        `[Environment]::GetEnvironmentVariable('PROCESSOR_ARCHITECTURE', 'Machine')`  
+        AMD64/x64 means 64 Bit, x86 means 32 Bit
     -   To check the installed Windows Language, open Powershell as admin and enter,  
         `dism /english /online /get-intl | find /i "Default system UI language"`
     -   Note: If you are running the Enterprise LTSC edition, you will need to download that edition's ISO file. Don't download Evaluation version, that can't be activated.
