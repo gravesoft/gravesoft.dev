@@ -8,17 +8,18 @@ In-place repair upgrade using Windows ISO file is a good way to fix system error
 
 -   Download the Windows ISO, preferably from [MSDL](https://msdl.gravesoft.dev/) in the **same Windows language, and architecture**.
     -   To check the installed Windows architecture, open Powershell as admin and enter,  
-        `Get-WmiObject -Class Win32_OperatingSystem | Format-List OSArchitecture`  
-        x64 means 64 Bit, x86 means 32 Bit
+        `[IntPtr].GetType().Assembly.GetName().ProcessorArchitecture`  
+        Amd64/x64 means 64 Bit, x86 means 32 Bit
     -   To check the installed Windows Language, open Powershell as admin and enter,  
         `dism /english /online /get-intl | find /i "Default system UI language"`
     -   Note: If you are running the Enterprise LTSC edition, you will need to download that edition's ISO file. Don't download Evaluation version, that can't be activated.
 -   Right-click on the downloaded ISO file, Open With > Windows Explorer
 -   A new DVD drive will appear in Windows Explorer, which means the installation image has been mounted successfully.
 <details>
-  <summary>Windows 11 on Unsupported Hardware</summary>
+  <summary>Click here for info: Windows 11 on Unsupported Hardware</summary>
 - If you're using Windows 11 or upgrading from Windows 10, you may encounter errors due to unsupported hardware.
-- To resolve this, open the command prompt as admin and,
+- To resolve this, you need to install IoT Enterprise 24H2 (2024) edition which is [officially supported](https://learn.microsoft.com/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements) on unsupported hardware. 
+  - To do that, open the command prompt as admin and,
   - Enter the below command if you are using normal Windows 11 24H2 ISO  
 `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d IoTEnterprise /f`
   - Enter the below command if you are using Windows 11 LTSC 2024 ISO  
