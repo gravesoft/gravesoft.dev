@@ -87,6 +87,9 @@ It's highly recommended to backup your critical data on some online drive as wel
 
 ## Windows 11 on Unsupported Hardware
 
+<details>
+  <summary>Click here to view</summary>
+
 - Rufus can help you install Windows 11 on unsupported hardware, but you will encounter problems with future feature updates since Microsoft does not permit that on such hardware.
 - To resolve this issue, you need to install IoT Enterprise 24H2 (2024) edition which is [officially supported](https://learn.microsoft.com/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements) on unsupported hardware. Don't worry about it being an unusual edition; it's binary identical to other editions, with the primary difference being the licensing.
 - This IoT Enterprise edition comes in 2 flavors,
@@ -111,10 +114,15 @@ It's highly recommended to backup your critical data on some online drive as wel
 
 Alternatively, if you don't want to do that, you can install Windows normally and later change the edition to IoT Enterprise.
 
+</details>
+
 ---
 
 ## Edition List During Windows Installation
 
+<details>
+  <summary>Click here to view</summary>
+  
 - If your system has an OEM license installed by the manufacturer on the motherboard, then the Windows setup will not show the edition list and will automatically select the edition based on the license on the motherboard.
 - If you have such hardware and want to view the list of available editions for Windows installation, follow the steps below.
 - After flashing the required ISO using Rufus, navigate to the `\sources\` folder on the USB drive and create a file named `ei.cfg` (ensure the file extension is correct). Open this file with Notepad and enter the text below.
@@ -127,6 +135,8 @@ NoKeyChannel
 **Notes:**  
 - In Windows 11 24H2, the new installer does not support this, so you need to select the "old" installer option when the setup starts.
 - If you are using PID.txt, please note that it will take precedence over ei.cfg.
+
+</details>
 
 ---
 
