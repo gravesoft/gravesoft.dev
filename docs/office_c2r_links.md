@@ -1,30 +1,55 @@
 # Office C2R Installers
 
-## Notes
+All of the below listed links are original from Microsoft with Retail license and Current update channel.
 
--   All of the below listed links are original from Microsoft with Retail license and Current update channel.
+<details>
+<summary>**General Notes**</summary>
+
 -   Microsoft publishes updates in these same links, which means there isn't any need to update the links.
 -   **File size:** C2R office installer files are unified. It means that for example, Office 2021 ProPlus, Excel, and OneNote, will all have the same size. Online installer consumes less data because it downloads files for only one system architecture whereas Offline file contain both architectures.
 -   **File version:** Online installer always installs the latest Office version whereas the Offline version is often 5-6 months old and Office will need updates once installed.
 -   **Advanced users:** If you want to customize your Office installation or want pure Volume installation, use this [ODT method](office_c2r_custom.md) of Office installation.
+-	[Language Pack for Office](https://support.microsoft.com/office/language-accessory-pack-for-microsoft-365-82ee1236-0f9a-45ee-9c72-05b026ee809f)
 
-:::tip
+</details>
 
--   If office installation is showing that it **can't install on selected updated channel** or there's an error due to leftovers of previously installed office then [**download Office Scrubber**](https://github.com/abbodi1406/WHD/raw/master/scripts/OfficeScrubber_13.zip) and **extract that file** and run Full Scrub option.
--   **Russian** users need to follow [this guide](bypass-russian-geoblock.md) to bypass geoblock in Office downloading.
+<details>
+<summary>**Which Office Product is Best?**</summary>
 
-:::
+**Microsoft 365** is superior to Office 2024 because it includes following features that are only available with 365.
+- Designer in PowerPoint 
+- Microsoft Editor in Word
+- Latest Formulas in Excel
+- Premium Fonts & Icons
+- Accessibility Enhancements
 
-:::info
+Microsoft 365 receive regular updates with new features and improvements across all applications. In contrast, Office 2024 only receives security updates without new feature additions. 
 
-[**Language pack for Office**](https://support.microsoft.com/office/language-accessory-pack-for-microsoft-365-82ee1236-0f9a-45ee-9c72-05b026ee809f)
+</details>
 
-:::
+#### Error in Office Installation
+
+<details>
+<summary>Click here for info</summary>
+
+If Office installation is showing that it **can't install on selected updated channel** or there's any other error then,
+- [Download Office Scrubber](https://github.com/abbodi1406/WHD/raw/master/scripts/OfficeScrubber_13.zip)
+- Extract the downloaded zip file
+- Run `OfficeScrubber.cmd` file as admin and select Full Scrub option
+- Let the process complete, it may take 10-15 minutes.
+
+If Office installation is still showing error then try Offline installer file.
+
+---
+
+**Russian** users need to follow [this guide](bypass-russian-geoblock.md) to bypass geoblock in Office downloading.
+
+</details>
 
 :::info
 
 -	On **Windows 7 and 8.1**, use the Office 2016 Offline file to install Office. Newer versions of Office are not supported on older operating systems.
-- 	On **Windows 10/11 ARM64**, use the offline file to install Office.
+- 	On **Windows 10/11 ARM64**, if online installer isn't working then use the offline file to install Office.
 -	O365 provides the most and latest features. If you want more apps, choose **O365ProPlusRetail**, and if you want fewer apps, use **O365EduCloudRetail**.
 :::
 
@@ -46,9 +71,8 @@ import TabItem from '@theme/TabItem';
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=en-us&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=en-us&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=en-us&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=en-us&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=en-us&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=en-us&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=en-us&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=en-us&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=en-us&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=en-us&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=en-us&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=en-us&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=en-us&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=en-us&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=en-us&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=en-us&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -150,7 +174,7 @@ import TabItem from '@theme/TabItem';
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -200,9 +224,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=ar-sa&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=ar-sa&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=ar-sa&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=ar-sa&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ar-sa/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=ar-sa&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=ar-sa&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=ar-sa&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=ar-sa&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=ar-sa&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=ar-sa&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ar-sa/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=ar-sa&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=ar-sa&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ar-sa/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=ar-sa&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=ar-sa&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=ar-sa&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=ar-sa&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -304,7 +327,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -354,7 +377,6 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=bg-bg&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=bg-bg&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=bg-bg&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=bg-bg&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/bg-bg/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=bg-bg&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=bg-bg&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=bg-bg&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=bg-bg&version=O16GA) |   NA |  
 | **ProjectProRetail** | Project |   NA |   NA |   NA |  
 | **VisioProRetail** | Visio, OneDrive |   NA |   NA |   NA |  
 </TabItem>
@@ -458,7 +480,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -508,9 +530,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=cs-cz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=cs-cz&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=cs-cz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=cs-cz&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/cs-cz/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=cs-cz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=cs-cz&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=cs-cz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=cs-cz&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=cs-cz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=cs-cz&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/cs-cz/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=cs-cz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=cs-cz&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/cs-cz/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=cs-cz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=cs-cz&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=cs-cz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=cs-cz&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -612,7 +633,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -662,9 +683,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=da-dk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=da-dk&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=da-dk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=da-dk&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/da-dk/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=da-dk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=da-dk&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=da-dk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=da-dk&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=da-dk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=da-dk&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/da-dk/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=da-dk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=da-dk&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/da-dk/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=da-dk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=da-dk&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=da-dk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=da-dk&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -766,7 +786,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -816,9 +836,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=de-de&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=de-de&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=de-de&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=de-de&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/de-de/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=de-de&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=de-de&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=de-de&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=de-de&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=de-de&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=de-de&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/de-de/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=de-de&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=de-de&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/de-de/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=de-de&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=de-de&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=de-de&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=de-de&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -920,7 +939,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -970,9 +989,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=el-gr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=el-gr&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=el-gr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=el-gr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/el-gr/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=el-gr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=el-gr&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=el-gr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=el-gr&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=el-gr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=el-gr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/el-gr/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=el-gr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=el-gr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/el-gr/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=el-gr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=el-gr&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=el-gr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=el-gr&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -1074,7 +1092,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -1124,7 +1142,6 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=en-gb&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=en-gb&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=en-gb&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=en-gb&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-gb/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=en-gb&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=en-gb&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=en-gb&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=en-gb&version=O16GA) |   NA |  
 | **ProjectProRetail** | Project |   NA |   NA |   NA |  
 | **VisioProRetail** | Visio, OneDrive |   NA |   NA |   NA |  
 </TabItem>
@@ -1228,7 +1245,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -1278,9 +1295,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=es-es&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=es-es&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=es-es&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=es-es&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=es-es&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=es-es&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=es-es&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=es-es&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=es-es&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=es-es&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=es-es&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=es-es&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=es-es&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=es-es&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=es-es&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=es-es&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -1382,7 +1398,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -1432,7 +1448,6 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=es-mx&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=es-mx&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=es-mx&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=es-mx&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-mx/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=es-mx&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=es-mx&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=es-mx&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=es-mx&version=O16GA) |   NA |  
 | **ProjectProRetail** | Project |   NA |   NA |   NA |  
 | **VisioProRetail** | Visio, OneDrive |   NA |   NA |   NA |  
 </TabItem>
@@ -1536,7 +1551,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -1586,7 +1601,6 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=et-ee&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=et-ee&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=et-ee&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=et-ee&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/et-ee/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=et-ee&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=et-ee&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=et-ee&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=et-ee&version=O16GA) |   NA |  
 | **ProjectProRetail** | Project |   NA |   NA |   NA |  
 | **VisioProRetail** | Visio, OneDrive |   NA |   NA |   NA |  
 </TabItem>
@@ -1690,7 +1704,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -1740,9 +1754,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=fi-fi&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=fi-fi&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=fi-fi&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=fi-fi&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fi-fi/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=fi-fi&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=fi-fi&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=fi-fi&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=fi-fi&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=fi-fi&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=fi-fi&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fi-fi/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=fi-fi&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=fi-fi&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fi-fi/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=fi-fi&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=fi-fi&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=fi-fi&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=fi-fi&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -1844,7 +1857,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -1894,7 +1907,6 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=fr-ca&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=fr-ca&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=fr-ca&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=fr-ca&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fr-ca/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=fr-ca&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=fr-ca&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=fr-ca&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=fr-ca&version=O16GA) |   NA |  
 | **ProjectProRetail** | Project |   NA |   NA |   NA |  
 | **VisioProRetail** | Visio, OneDrive |   NA |   NA |   NA |  
 </TabItem>
@@ -1998,7 +2010,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -2048,9 +2060,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=fr-fr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=fr-fr&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=fr-fr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=fr-fr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fr-fr/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=fr-fr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=fr-fr&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=fr-fr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=fr-fr&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=fr-fr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=fr-fr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fr-fr/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=fr-fr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=fr-fr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fr-fr/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=fr-fr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=fr-fr&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=fr-fr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=fr-fr&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -2152,7 +2163,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -2202,9 +2213,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=he-il&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=he-il&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=he-il&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=he-il&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/he-il/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=he-il&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=he-il&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=he-il&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=he-il&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=he-il&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=he-il&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/he-il/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=he-il&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=he-il&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/he-il/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=he-il&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=he-il&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=he-il&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=he-il&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -2306,7 +2316,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -2356,7 +2366,6 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=hi-in&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=hi-in&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=hi-in&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=hi-in&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hi-in/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=hi-in&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=hi-in&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |   NA |   NA |   NA |  
 | **ProjectProRetail** | Project |   NA |   NA |   NA |  
 | **VisioProRetail** | Visio, OneDrive |   NA |   NA |   NA |  
 </TabItem>
@@ -2460,7 +2469,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -2510,7 +2519,6 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=hr-hr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=hr-hr&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=hr-hr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=hr-hr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hr-hr/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=hr-hr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=hr-hr&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=hr-hr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=hr-hr&version=O16GA) |   NA |  
 | **ProjectProRetail** | Project |   NA |   NA |   NA |  
 | **VisioProRetail** | Visio, OneDrive |   NA |   NA |   NA |  
 </TabItem>
@@ -2614,7 +2622,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -2664,9 +2672,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=hu-hu&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=hu-hu&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=hu-hu&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=hu-hu&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hu-hu/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=hu-hu&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=hu-hu&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=hu-hu&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=hu-hu&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=hu-hu&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=hu-hu&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hu-hu/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=hu-hu&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=hu-hu&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/hu-hu/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=hu-hu&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=hu-hu&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=hu-hu&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=hu-hu&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -2768,7 +2775,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -2818,7 +2825,6 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=id-id&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=id-id&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=id-id&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=id-id&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/id-id/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=id-id&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=id-id&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=id-id&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=id-id&version=O16GA) |   NA |  
 | **ProjectProRetail** | Project |   NA |   NA |   NA |  
 | **VisioProRetail** | Visio, OneDrive |   NA |   NA |   NA |  
 </TabItem>
@@ -2922,7 +2928,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -2972,9 +2978,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=it-it&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=it-it&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=it-it&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=it-it&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/it-it/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=it-it&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=it-it&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=it-it&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=it-it&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=it-it&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=it-it&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/it-it/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=it-it&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=it-it&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/it-it/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=it-it&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=it-it&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=it-it&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=it-it&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -3076,7 +3081,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -3126,9 +3131,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=ja-jp&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=ja-jp&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=ja-jp&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=ja-jp&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ja-jp/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=ja-jp&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=ja-jp&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=ja-jp&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=ja-jp&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=ja-jp&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=ja-jp&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ja-jp/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=ja-jp&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=ja-jp&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ja-jp/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=ja-jp&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=ja-jp&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=ja-jp&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=ja-jp&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -3230,7 +3234,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -3280,7 +3284,6 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=kk-kz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=kk-kz&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=kk-kz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=kk-kz&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/kk-kz/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=kk-kz&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=kk-kz&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |   NA |   NA |   NA |  
 | **ProjectProRetail** | Project |   NA |   NA |   NA |  
 | **VisioProRetail** | Visio, OneDrive |   NA |   NA |   NA |  
 </TabItem>
@@ -3384,7 +3387,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -3434,9 +3437,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=ko-kr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=ko-kr&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=ko-kr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=ko-kr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ko-kr/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=ko-kr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=ko-kr&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=ko-kr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=ko-kr&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=ko-kr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=ko-kr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ko-kr/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=ko-kr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=ko-kr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ko-kr/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=ko-kr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=ko-kr&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=ko-kr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=ko-kr&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -3538,7 +3540,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -3588,7 +3590,6 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=lt-lt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=lt-lt&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=lt-lt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=lt-lt&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/lt-lt/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=lt-lt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=lt-lt&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=lt-lt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=lt-lt&version=O16GA) |   NA |  
 | **ProjectProRetail** | Project |   NA |   NA |   NA |  
 | **VisioProRetail** | Visio, OneDrive |   NA |   NA |   NA |  
 </TabItem>
@@ -3692,7 +3693,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -3742,7 +3743,6 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=lv-lv&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=lv-lv&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=lv-lv&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=lv-lv&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/lv-lv/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=lv-lv&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=lv-lv&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=lv-lv&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=lv-lv&version=O16GA) |   NA |  
 | **ProjectProRetail** | Project |   NA |   NA |   NA |  
 | **VisioProRetail** | Visio, OneDrive |   NA |   NA |   NA |  
 </TabItem>
@@ -3846,7 +3846,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -3896,7 +3896,6 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=ms-my&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=ms-my&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=ms-my&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=ms-my&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ms-my/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=ms-my&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=ms-my&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |   NA |   NA |   NA |  
 | **ProjectProRetail** | Project |   NA |   NA |   NA |  
 | **VisioProRetail** | Visio, OneDrive |   NA |   NA |   NA |  
 </TabItem>
@@ -4000,7 +3999,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -4050,9 +4049,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=nb-no&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=nb-no&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=nb-no&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=nb-no&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/nb-no/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=nb-no&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=nb-no&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=nb-no&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=nb-no&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=nb-no&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=nb-no&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/nb-no/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=nb-no&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=nb-no&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/nb-no/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=nb-no&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=nb-no&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=nb-no&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=nb-no&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -4154,7 +4152,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -4204,9 +4202,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=nl-nl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=nl-nl&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=nl-nl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=nl-nl&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/nl-nl/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=nl-nl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=nl-nl&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=nl-nl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=nl-nl&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=nl-nl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=nl-nl&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/nl-nl/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=nl-nl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=nl-nl&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/nl-nl/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=nl-nl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=nl-nl&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=nl-nl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=nl-nl&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -4308,7 +4305,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -4358,9 +4355,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=pl-pl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=pl-pl&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=pl-pl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=pl-pl&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pl-pl/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=pl-pl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=pl-pl&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=pl-pl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=pl-pl&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=pl-pl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=pl-pl&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pl-pl/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=pl-pl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=pl-pl&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pl-pl/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=pl-pl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=pl-pl&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=pl-pl&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=pl-pl&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -4462,7 +4458,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -4512,9 +4508,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=pt-br&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=pt-br&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=pt-br&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=pt-br&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-br/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=pt-br&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=pt-br&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=pt-br&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=pt-br&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=pt-br&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=pt-br&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-br/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=pt-br&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=pt-br&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-br/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=pt-br&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=pt-br&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=pt-br&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=pt-br&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -4616,7 +4611,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -4666,9 +4661,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=pt-pt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=pt-pt&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=pt-pt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=pt-pt&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-pt/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=pt-pt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=pt-pt&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=pt-pt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=pt-pt&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=pt-pt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=pt-pt&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-pt/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=pt-pt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=pt-pt&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/pt-pt/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=pt-pt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=pt-pt&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=pt-pt&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=pt-pt&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -4770,7 +4764,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -4820,9 +4814,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=ro-ro&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=ro-ro&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=ro-ro&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=ro-ro&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ro-ro/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=ro-ro&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=ro-ro&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=ro-ro&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=ro-ro&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=ro-ro&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=ro-ro&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ro-ro/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=ro-ro&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=ro-ro&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ro-ro/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=ro-ro&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=ro-ro&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=ro-ro&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=ro-ro&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -4924,7 +4917,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -4974,9 +4967,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=ru-ru&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=ru-ru&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=ru-ru&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=ru-ru&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-ru/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=ru-ru&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=ru-ru&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=ru-ru&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=ru-ru&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=ru-ru&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=ru-ru&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-ru/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=ru-ru&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=ru-ru&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-ru/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=ru-ru&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=ru-ru&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=ru-ru&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=ru-ru&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -5078,7 +5070,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -5128,9 +5120,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=sk-sk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=sk-sk&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=sk-sk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=sk-sk&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sk-sk/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=sk-sk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=sk-sk&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=sk-sk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=sk-sk&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=sk-sk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=sk-sk&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sk-sk/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=sk-sk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=sk-sk&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sk-sk/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=sk-sk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=sk-sk&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=sk-sk&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=sk-sk&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -5232,7 +5223,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -5282,9 +5273,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=sl-si&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=sl-si&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=sl-si&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=sl-si&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sl-si/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=sl-si&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=sl-si&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=sl-si&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=sl-si&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=sl-si&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=sl-si&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sl-si/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=sl-si&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=sl-si&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sl-si/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=sl-si&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=sl-si&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=sl-si&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=sl-si&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -5386,7 +5376,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -5436,7 +5426,6 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |   NA |   NA |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |   NA |   NA |   NA |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |   NA |   NA |   NA |  
-| **AccessRuntimeRetail** | Access |   NA |   NA |   NA |  
 | **ProjectProRetail** | Project |   NA |   NA |   NA |  
 | **VisioProRetail** | Visio, OneDrive |   NA |   NA |   NA |  
 </TabItem>
@@ -5540,7 +5529,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -5590,7 +5579,6 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=sr-latn-rs&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=sr-latn-rs&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=sr-latn-rs&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=sr-latn-rs&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sr-latn-rs/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=sr-latn-rs&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=sr-latn-rs&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=sr-latn-rs&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=sr-latn-rs&version=O16GA) |   NA |  
 | **ProjectProRetail** | Project |   NA |   NA |   NA |  
 | **VisioProRetail** | Visio, OneDrive |   NA |   NA |   NA |  
 </TabItem>
@@ -5694,7 +5682,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -5744,9 +5732,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=sv-se&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=sv-se&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=sv-se&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=sv-se&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sv-se/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=sv-se&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=sv-se&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=sv-se&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=sv-se&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=sv-se&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=sv-se&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sv-se/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=sv-se&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=sv-se&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/sv-se/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=sv-se&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=sv-se&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=sv-se&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=sv-se&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -5848,7 +5835,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -5898,7 +5885,6 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=th-th&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=th-th&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=th-th&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=th-th&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/th-th/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=th-th&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=th-th&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=th-th&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=th-th&version=O16GA) |   NA |  
 | **ProjectProRetail** | Project |   NA |   NA |   NA |  
 | **VisioProRetail** | Visio, OneDrive |   NA |   NA |   NA |  
 </TabItem>
@@ -6002,7 +5988,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -6052,9 +6038,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=tr-tr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=tr-tr&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=tr-tr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=tr-tr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/tr-tr/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=tr-tr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=tr-tr&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=tr-tr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=tr-tr&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=tr-tr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=tr-tr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/tr-tr/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=tr-tr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=tr-tr&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/tr-tr/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=tr-tr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=tr-tr&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=tr-tr&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=tr-tr&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -6156,7 +6141,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -6206,9 +6191,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=uk-ua&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=uk-ua&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=uk-ua&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=uk-ua&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/uk-ua/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=uk-ua&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=uk-ua&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=uk-ua&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=uk-ua&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=uk-ua&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=uk-ua&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/uk-ua/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=uk-ua&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=uk-ua&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/uk-ua/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=uk-ua&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=uk-ua&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=uk-ua&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=uk-ua&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -6310,7 +6294,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -6360,7 +6344,6 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=vi-vn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=vi-vn&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=vi-vn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=vi-vn&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/vi-vn/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=vi-vn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=vi-vn&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=vi-vn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=vi-vn&version=O16GA) |   NA |  
 | **ProjectProRetail** | Project |   NA |   NA |   NA |  
 | **VisioProRetail** | Visio, OneDrive |   NA |   NA |   NA |  
 </TabItem>
@@ -6464,7 +6447,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -6514,9 +6497,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=zh-cn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=zh-cn&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=zh-cn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=zh-cn&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=zh-cn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=zh-cn&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=zh-cn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=zh-cn&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=zh-cn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=zh-cn&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=zh-cn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=zh-cn&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=zh-cn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=zh-cn&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=zh-cn&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=zh-cn&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -6618,7 +6600,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
@@ -6668,9 +6650,8 @@ Office 2013 installation from Offline installer cannot be updated.
 | **O365EduCloudRetail** | Excel, OneNote, PowerPoint, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x64&language=zh-tw&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365EduCloudRetail&platform=x86&language=zh-tw&version=O16GA) |   NA |  
 | **O365HomePremRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x64&language=zh-tw&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365HomePremRetail&platform=x86&language=zh-tw&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/O365HomePremRetail.img) |  
 | **O365SmallBusPremRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x64&language=zh-tw&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365SmallBusPremRetail&platform=x86&language=zh-tw&version=O16GA) |   NA |  
-| **AccessRuntimeRetail** | Access |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x64&language=zh-tw&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=AccessRuntimeRetail&platform=x86&language=zh-tw&version=O16GA) |   NA |  
-| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=zh-tw&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=zh-tw&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/ProjectProRetail.img) |  
-| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=zh-tw&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=zh-tw&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-tw/VisioProRetail.img) |  
+| **ProjectProRetail** | Project |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x64&language=zh-tw&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProjectProRetail&platform=x86&language=zh-tw&version=O16GA) |   NA |  
+| **VisioProRetail** | Visio, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x64&language=zh-tw&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=VisioProRetail&platform=x86&language=zh-tw&version=O16GA) |   NA |  
 </TabItem>
 
 <TabItem value="Office 2024" label="Office 2024" default>
@@ -6772,7 +6753,7 @@ Office 2013 installation from Offline installer cannot be updated.
 
 :::warning
 
-Office 2013 installation from Offline installer cannot be updated.
+Office 2013 installation from Offline installer cannot be updated. Use online installer.
 
 :::
 
