@@ -9,7 +9,7 @@ All of the below listed links are original from Microsoft with Retail license an
 -   **File size:** C2R office installer files are unified. It means that for example, Office 2021 ProPlus, Excel, and OneNote, will all have the same size. Online installer consumes less data because it downloads files for only one system architecture whereas Offline file contain both architectures.
 -   **File version:** Online installer always installs the latest Office version whereas the Offline version is often 5-6 months old and Office will need updates once installed.
 -   **Advanced users:** If you want to customize your Office installation or want pure Volume installation, use this [ODT method](office_c2r_custom.md) of Office installation.
--	[Language Pack for Office](https://support.microsoft.com/office/language-accessory-pack-for-microsoft-365-82ee1236-0f9a-45ee-9c72-05b026ee809f)
+-	[Language Pack for Office](https://support.microsoft.com/en-us/office/language-accessory-pack-for-microsoft-365-82ee1236-0f9a-45ee-9c72-05b026ee809f)
 
 </details>
 

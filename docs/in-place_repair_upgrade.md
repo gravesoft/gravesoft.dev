@@ -26,7 +26,7 @@ In-place repair upgrade using Windows ISO file is a good way to fix system error
 <details>
   <summary>Click here for info: Windows 11 on Unsupported Hardware</summary>
 - If you're using Windows 11 or upgrading from Windows 10, you may encounter errors due to unsupported hardware.
-- To resolve this, you need to install IoT Enterprise 24H2 (2024) edition which is [officially supported](https://learn.microsoft.com/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements) on unsupported hardware. 
+- To resolve this, you need to install IoT Enterprise 24H2 (2024) edition which is [officially supported](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements) on unsupported hardware. 
   - To do that, open the command prompt as admin and,
   - Enter the below command if you are using normal Windows 11 24H2 ISO  
 `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d IoTEnterprise /f`

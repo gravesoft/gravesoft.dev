@@ -6,7 +6,7 @@ In this page, methods to bypass Russian geoblock imposed by **Microsoft** will b
 
 ## Windows Download
 
-Russian users face an error when they try to download Windows ISO's from [Official Microsoft page](https://www.microsoft.com/software-download).
+Russian users face an error when they try to download Windows ISO's from [Official Microsoft page](https://www.microsoft.com/en-us/software-download).
 
 ### Error
 

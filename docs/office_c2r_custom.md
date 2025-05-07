@@ -25,7 +25,7 @@
 -   Go to [config.office.com](https://config.office.com/deploymentsettings)
 -   If you want Retail Office then select `Microsoft 365 Apps for enterprise` in the office suites section.
 -   If you want Volume Office then select `Office LTSC Professional Plus 2024 - Volume License` in the office suites section. (Don't select the SPLA version)
--   You can add Visio and Project apps if you need them, but ensure that [Project](https://learn.microsoft.com/projectonline/supported-languages-for-project-online) / [Visio](https://support.microsoft.com/office/display-languages-supported-in-the-visio-desktop-app-a921983e-fd5d-45ef-8af1-cedf70c53d75) supported language is selected.
+-   You can add Visio and Project apps if you need them, but ensure that [Project](https://learn.microsoft.com/en-us/projectonline/supported-languages-for-project-online) / [Visio](https://support.microsoft.com/en-us/office/display-languages-supported-in-the-visio-desktop-app-a921983e-fd5d-45ef-8af1-cedf70c53d75) supported language is selected.
 -   If you are planning to download Office files and install them later, then ensure that you select a specific version number instead of the latest in the `Select the version` option.
 -   You need to configure the options till "Language" section only. You can leave the rest as default.
 -   Click on the export button, select "Keep Current Settings" option and it will download a file named `Configuration.xml` (If the name is something else then change it to `Configuration.xml`
