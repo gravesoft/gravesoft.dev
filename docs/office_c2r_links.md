@@ -2,8 +2,10 @@
 
 All of the below listed links are original from Microsoft with Retail license and Current update channel.
 
+#### General Notes
+
 <details>
-<summary>**General Notes**</summary>
+<summary>Click here for info</summary>
 
 -   Microsoft publishes updates in these same links, which means there isn't any need to update the links.
 -   **File size:** C2R office installer files are unified. It means that for example, Office 2021 ProPlus, Excel, and OneNote, will all have the same size. Online installer consumes less data because it downloads files for only one system architecture whereas Offline file contain both architectures.
@@ -13,8 +15,10 @@ All of the below listed links are original from Microsoft with Retail license an
 
 </details>
 
+#### Which Office Product is Best?
+
 <details>
-<summary>**Which Office Product is Best?**</summary>
+<summary>Click here for info</summary>
 
 **Microsoft 365** is superior to Office 2024 because it includes following features that are only available with 365.
 - Designer in PowerPoint 
@@ -32,13 +36,12 @@ Microsoft 365 receive regular updates with new features and improvements across 
 <details>
 <summary>Click here for info</summary>
 
-If Office installation is showing that it **can't install on selected updated channel** or there's any other error then,
-- [Download Office Scrubber](https://github.com/abbodi1406/WHD/raw/master/scripts/OfficeScrubber_13.zip)
-- Extract the downloaded zip file
-- Run `OfficeScrubber.cmd` file as admin and select Full Scrub option
-- Let the process complete, it may take 10-15 minutes.
-
-If Office installation is still showing error then try Offline installer file.
+- If Office installation is showing that it **can't install on selected updated channel** or there's any other error then,
+	- [Download Office Scrubber](https://github.com/abbodi1406/WHD/raw/master/scripts/OfficeScrubber_13.zip)
+	- Extract the downloaded zip file
+	- Run `OfficeScrubber.cmd` file as admin and select Scrub ALL option
+	- Let the process complete, it may take 10-15 minutes.
+- If Office installation is still showing error then try Offline installer file.
 
 ---
 
@@ -1238,7 +1241,7 @@ Office 2013 installation from Offline installer cannot be updated. Use online in
 | **ProfessionalRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProfessionalRetail&platform=x64&language=en-gb&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProfessionalRetail&platform=x86&language=en-gb&version=O16GA) |   NA |  
 | **ProjectProRetail** | Project |   NA |   NA |   NA |  
 | **ProjectStdRetail** | Project |   NA |   NA |   NA |  
-| **ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlusRetail&platform=x64&language=en-gb&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlusRetail&platform=x86&language=en-gb&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-gb/O365ProPlusRetail.img) |  
+| **ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlusRetail&platform=x64&language=en-gb&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlusRetail&platform=x86&language=en-gb&version=O16GA) |   NA |  
 | **PublisherRetail** | Publisher, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PublisherRetail&platform=x64&language=en-gb&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PublisherRetail&platform=x86&language=en-gb&version=O16GA) |   NA |  
 | **SkypeforBusinessEntryRetail** | Lync, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=SkypeforBusinessEntryRetail&platform=x64&language=en-gb&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=SkypeforBusinessEntryRetail&platform=x86&language=en-gb&version=O16GA) |   NA |  
 | **SkypeforBusinessRetail** | Lync, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=SkypeforBusinessRetail&platform=x64&language=en-gb&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=SkypeforBusinessRetail&platform=x86&language=en-gb&version=O16GA) |   NA |  
@@ -1546,7 +1549,7 @@ Office 2013 installation from Offline installer cannot be updated. Use online in
 | **ProfessionalRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProfessionalRetail&platform=x64&language=es-mx&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProfessionalRetail&platform=x86&language=es-mx&version=O16GA) |   NA |  
 | **ProjectProRetail** | Project |   NA |   NA |   NA |  
 | **ProjectStdRetail** | Project |   NA |   NA |   NA |  
-| **ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlusRetail&platform=x64&language=es-mx&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlusRetail&platform=x86&language=es-mx&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-mx/O365ProPlusRetail.img) |  
+| **ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlusRetail&platform=x64&language=es-mx&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlusRetail&platform=x86&language=es-mx&version=O16GA) |   NA |  
 | **PublisherRetail** | Publisher, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PublisherRetail&platform=x64&language=es-mx&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PublisherRetail&platform=x86&language=es-mx&version=O16GA) |   NA |  
 | **SkypeforBusinessEntryRetail** | Lync, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=SkypeforBusinessEntryRetail&platform=x64&language=es-mx&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=SkypeforBusinessEntryRetail&platform=x86&language=es-mx&version=O16GA) |   NA |  
 | **SkypeforBusinessRetail** | Lync, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=SkypeforBusinessRetail&platform=x64&language=es-mx&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=SkypeforBusinessRetail&platform=x86&language=es-mx&version=O16GA) |   NA |  
@@ -2008,7 +2011,7 @@ Office 2013 installation from Offline installer cannot be updated. Use online in
 | **ProfessionalRetail** | Access, Excel, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProfessionalRetail&platform=x64&language=fr-ca&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProfessionalRetail&platform=x86&language=fr-ca&version=O16GA) |   NA |  
 | **ProjectProRetail** | Project |   NA |   NA |   NA |  
 | **ProjectStdRetail** | Project |   NA |   NA |   NA |  
-| **ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlusRetail&platform=x64&language=fr-ca&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlusRetail&platform=x86&language=fr-ca&version=O16GA) |  [Link](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/fr-ca/O365ProPlusRetail.img) |  
+| **ProPlusRetail** | Access, Excel, Lync, OneNote, Outlook, PowerPoint, Publisher, Word, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlusRetail&platform=x64&language=fr-ca&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlusRetail&platform=x86&language=fr-ca&version=O16GA) |   NA |  
 | **PublisherRetail** | Publisher, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PublisherRetail&platform=x64&language=fr-ca&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=PublisherRetail&platform=x86&language=fr-ca&version=O16GA) |   NA |  
 | **SkypeforBusinessEntryRetail** | Lync, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=SkypeforBusinessEntryRetail&platform=x64&language=fr-ca&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=SkypeforBusinessEntryRetail&platform=x86&language=fr-ca&version=O16GA) |   NA |  
 | **SkypeforBusinessRetail** | Lync, OneDrive |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=SkypeforBusinessRetail&platform=x64&language=fr-ca&version=O16GA) |  [Link](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=SkypeforBusinessRetail&platform=x86&language=fr-ca&version=O16GA) |   NA |  
