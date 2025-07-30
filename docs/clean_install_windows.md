@@ -68,7 +68,6 @@ It's highly recommended to backup your critical data on some online drive as wel
 [GoogleDrive](https://drive.google.com/) - 15GB Free  
 [OneDrive](https://onedrive.live.com/) - 5GB Free  
 [Mega](https://mega.io/) - 20GB Free  
-[Filen](https://filen.io/) - 10GB Free  
 
 :::
 
