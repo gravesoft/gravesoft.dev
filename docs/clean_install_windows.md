@@ -135,6 +135,19 @@ This situation cannot be avoided because IoT Enterprise (GAC) only has an OEM ke
 :::
 
 
+:::tip
+
+If you plan to use an ISO file to install Windows instead of a USB drive and want to edit the ISO file, follow these steps.
+
+-   Download [AnyBurn Free Portable](https://www.anyburn.com/download.php) and extract the zip file.
+-   Run the file named `AnyBurn(64-bit)\AnyBurn.exe`.
+-   Select the option named `Edit image file`.
+-   Follow the on-screen instructions and add the file in `sources` folder as described above.
+-   Save the ISO, that's it.
+
+:::
+
+
 </details>
 
 ---
@@ -153,12 +166,29 @@ NoKeyChannel
 ```
 - Now you can view the edition list and pick the edition you want from Windows Vista to Windows 11. It also helps you avoid installing key in Windows 8/8.1 setup where key installation can not be skipped.
 
-**Notes:**  
+:::note
+  
 - In Windows 11 24H2 and later, the new installer does not support this, so you need to select the "Previous version of the setup" option when the setup starts.
 
 ![image](./assets/select_previous_version_of_setup.png)
 
 - If you are using PID.txt, please note that it will take precedence over ei.cfg.
+
+:::
+
+
+:::tip
+
+If you plan to use an ISO file to install Windows instead of a USB drive and want to edit the ISO file, follow these steps.
+
+-   Download [AnyBurn Free Portable](https://www.anyburn.com/download.php) and extract the zip file.
+-   Run the file named `AnyBurn(64-bit)\AnyBurn.exe`.
+-   Select the option named `Edit image file`.
+-   Follow the on-screen instructions and add the file in `sources` folder as described above.
+-   Save the ISO, that's it.
+
+:::
+
 
 </details>
 
