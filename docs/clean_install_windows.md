@@ -109,10 +109,31 @@ It's highly recommended to backup your critical data on some online drive as wel
 	  [PID]
 	  Value=CGK42-GYN6Y-VD22B-BX98W-J8JXD
 	  ```
-- When installing Windows, be sure not to use the old version of the installer.
+- When installing Windows, avoid selecting the "Previous version of the setup" option. The PID.txt method for virtual editions only works with the new installer in Windows 11 24H2 and later.
+
+![image](./assets/do_not_select_previous_version_of_setup.png)
+
 - That's it. The setup will auto-pick the IoT Enterprise edition.
 
 Alternatively, if you don't want to do that, you can install Windows normally and later change the edition to IoT Enterprise.
+
+
+:::note
+
+Note For IoT Enterprise (GAC) **Not LTSC**:
+
+- If your system has an OEM license on the motherboard for Pro or higher-level edition
+- And the edition key in Windows setup is OEM as well
+
+In that case, during the final stages in Windows installation, setup will install the OEM key that is installed on your motherboard.
+As a result, you can install IoT Enterprise according to the relaxed hardware requirements. However, after the Windows installation is complete, it will show that the Pro edition is installed.
+
+This situation cannot be avoided because IoT Enterprise (GAC) only has an OEM key. The same will happen even if you use the official IoT Enterprise ISO file to install. However, don't worry, you can just change the edition to IoT Enterprise later using the command below as admin.
+
+`slmgr.vbs /ipk XQQYW-NFFMW-XJPBH-K8732-CKFFD`
+
+:::
+
 
 </details>
 
@@ -133,7 +154,10 @@ NoKeyChannel
 - Now you can view the edition list and pick the edition you want from Windows Vista to Windows 11. It also helps you avoid installing key in Windows 8/8.1 setup where key installation can not be skipped.
 
 **Notes:**  
-- In Windows 11 24H2, the new installer does not support this, so you need to select the "old" installer option when the setup starts.
+- In Windows 11 24H2 and later, the new installer does not support this, so you need to select the "Previous version of the setup" option when the setup starts.
+
+![image](./assets/select_previous_version_of_setup.png)
+
 - If you are using PID.txt, please note that it will take precedence over ei.cfg.
 
 </details>
