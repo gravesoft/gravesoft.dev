@@ -203,6 +203,24 @@ If you plan to use an ISO file to install Windows instead of a USB drive and wan
   - Delete all partitions on the boot drive, or if you want to save data partitions then delete only the C drive and other small system partitions, and select the unallocated space created.
   - Click "Next" to start the installation. Windows will auto-create the necessary partitions.
 
+---
+
+## Bypass Windows 11 Internet and Microsoft Account Requirements
+
+Rufus offers an option to bypass the Internet and Microsoft Account requirements for installing Windows 11. However, if you prefer a different method, follow these steps:
+
+1. When you see the "Let's connect you to a network" screen, 
+2. Press Shift + F10 to open a command prompt.
+3. Type `start ms-cxh:localonly` and press Enter.
+
+This allows you to continue the installation without needing to connect to the Internet or use a Microsoft account.
+
+import ReactPlayer from 'react-player'
+
+<ReactPlayer controls width='75%' height='auto' src='/bypass_windows_11_internet_and_microsoft_account_requirement.mp4' />
+
+---
+
 :::tip
 
 -   You can [connect with us](troubleshoot.md) for help if you need.

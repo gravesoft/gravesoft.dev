@@ -30,4 +30,4 @@
 
 import ReactPlayer from 'react-player'
 
-<ReactPlayer controls width='100%' height='auto' url='/Fix_WPA_Registry.mp4' />
+<ReactPlayer controls width='100%' height='auto' src='/Fix_WPA_Registry.mp4' />
