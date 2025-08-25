@@ -6,7 +6,7 @@
 
 In-place repair upgrade using Windows ISO file is a good way to fix system errors. Here's how you can perform it.
 
--   Download the Windows ISO, preferably from [MSDL](https://msdl.gravesoft.dev/) in the **same Windows language, and architecture**.
+-   Download the latest monthly updated Windows ISO from [here](https://massgrave.dev/genuine-installation-media). Make sure you choose the ISO that matches your system’s **language and architecture**.
     -   To check the installed Windows architecture, open Powershell as admin and enter,  
         ```
 		(Get-ItemProperty "HKLM:\SYSTEM\CurrentControlSet\Control\Session Manager\Environment").PROCESSOR_ARCHITECTURE
@@ -38,6 +38,12 @@ In-place repair upgrade using Windows ISO file is a good way to fix system error
 -   Make sure it says "**Keep personal files and apps**" on the final screen. Then you can continue the process and wait until it is done.
 
 ---
+
+:::info
+
+-   If Windows 11 24H2 already has the latest updates installed, you’ll need the latest monthly updated ISO to perform an in-place repair upgrade.
+
+:::
 
 :::tip
 
