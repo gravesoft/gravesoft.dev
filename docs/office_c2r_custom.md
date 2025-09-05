@@ -18,7 +18,7 @@
 
 -   If Office was ever installed before,
 	- Uninstall Office with the App and Features option in Windows settings.
-	- Run `OfficeScrubber.cmd` file from [Office Scrubber](https://github.com/abbodi1406/WHD/raw/master/scripts/OfficeScrubber_13.zip) by abbodi1406 and select `[R] Remove all Licenses` option.
+	- Run `OfficeScrubber.cmd` file from [Office Scrubber](https://github.com/abbodi1406/WHD/raw/master/scripts/OfficeScrubber_14.zip) by abbodi1406 and select `[R] Remove all Licenses` option.
 -   Create a new folder named `Office` in `C:\` drive, example `C:\Office`
 -   Download [Office Deployment Tool](https://officecdn.microsoft.com/pr/wsus/setup.exe) (ODT)
 -   Copy the downloaded `setup.exe` file to that Office folder which you created, example `C:\Office\setup.exe`
@@ -78,7 +78,7 @@ It will now install Office.
 
 ## Alternative Methods
 
--   [YAOCTRU](https://github.com/abbodi1406/WHD/raw/master/scripts/YAOCTRU_v10.0.zip) (Office Downloader) & [YAOCTRI](https://github.com/abbodi1406/WHD/raw/master/scripts/YAOCTRI_v11.1.zip) (Office Installer)
+-   [YAOCTRU](https://github.com/abbodi1406/WHD/raw/master/scripts/YAOCTRU_v11.0.zip) (Office Downloader) & [YAOCTRI](https://github.com/abbodi1406/WHD/raw/master/scripts/YAOCTRI_v11.2.zip) (Office Installer)
 -   [Office Tool Plus](http://otp.landian.vip/)
 
 ------------------------------------------------------------------------
