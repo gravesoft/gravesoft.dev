@@ -8,7 +8,7 @@
 
 :::tip
 
--   Russian users needs to follow [this guide](bypass-russian-geoblock.md) to bypass geoblock in Office downloading.
+-   Russian users needs to follow [this guide](bypass-microsoft-geoblocking.md) to bypass geoblock in Office downloading.
 
 :::
 

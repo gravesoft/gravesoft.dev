@@ -84,7 +84,7 @@ const config = {
             label: 'Download Windows / Office',
           },
           {
-            to: '/bypass-russian-geoblock',
+            to: '/bypass-microsoft-geoblocking',
             position: 'left',
             label: 'Guides',
           },
