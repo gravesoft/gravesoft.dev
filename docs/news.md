@@ -1,5 +1,8 @@
 # Gravesoft News
 
+### [8-Oct-25] Added Update Windows ISO guide  
+https://gravesoft.dev/update-windows-iso
+
 ### [19-Sep-24] Added Office 2024 Offline installers in all languages  
 https://gravesoft.dev/office_c2r_links
 

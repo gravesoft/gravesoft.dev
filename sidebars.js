@@ -35,7 +35,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Guides',
-      items: ['bypass-microsoft-geoblocking','in-place_repair_upgrade','fix-wpa-registry','fix_powershell','remove_malware','clean_install_windows'],
+      items: ['bypass-microsoft-geoblocking','in-place_repair_upgrade','update-windows-iso','fix-wpa-registry','fix_powershell','remove_malware','clean_install_windows'],
 	  collapsed: false,
     },
 	'news',
