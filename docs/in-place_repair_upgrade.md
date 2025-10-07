@@ -6,7 +6,7 @@
 
 In-place repair upgrade using Windows ISO file is a good way to fix system errors. Here's how you can perform it.
 
--   Download the latest monthly updated Windows ISO from [here](https://massgrave.dev/genuine-installation-media). Make sure you choose the ISO that matches your system’s **language and architecture**.
+-   Download the Windows ISO, preferably from [MSDL](https://msdl.gravesoft.dev/) (Select the version marked with a ❤️ icon). Make sure you choose the ISO that matches your system’s **language and architecture**.
     -   To check the installed Windows architecture, open Powershell as admin and enter,  
         ```
 		(Get-ItemProperty "HKLM:\SYSTEM\CurrentControlSet\Control\Session Manager\Environment").PROCESSOR_ARCHITECTURE
@@ -26,9 +26,9 @@ In-place repair upgrade using Windows ISO file is a good way to fix system error
 <details>
   <summary>Click here for info: Windows 11 on Unsupported Hardware</summary>
 - If you're using Windows 11 or upgrading from Windows 10, you may encounter errors due to unsupported hardware.
-- To resolve this, you need to install IoT Enterprise 24H2 (2024) edition which is [officially supported](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements) on unsupported hardware. 
+- To resolve this, you need to install IoT Enterprise edition which is [officially supported](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements) on unsupported hardware. 
   - To do that, open the command prompt as admin and,
-  - Enter the below command if you are using normal Windows 11 24H2 ISO  
+  - Enter the below command if you are using normal Windows 11 24H2 (or newer) ISO  
 `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d IoTEnterprise /f`
   - Enter the below command if you are using Windows 11 LTSC 2024 ISO  
 `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d IoTEnterpriseS /f`
@@ -41,7 +41,8 @@ In-place repair upgrade using Windows ISO file is a good way to fix system error
 
 :::info
 
--   If Windows 11 24H2 already has the latest updates installed, you’ll need the latest monthly updated ISO to perform an in-place repair upgrade.
+- If **Windows 11 LTSC 2024** is already up to date, performing an in-place repair upgrade requires the latest monthly updated ISO.  
+- Since Microsoft does not provide updated ISO files for LTSC, you will need to [manually update the ISO file](update-windows-iso.md).
 
 :::
 
