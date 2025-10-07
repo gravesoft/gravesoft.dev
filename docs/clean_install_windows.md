@@ -225,6 +225,9 @@ Rufus offers an option to bypass the Internet and Microsoft Account requirements
 
 This allows you to continue the installation without needing to connect to the Internet or use a Microsoft account.
 
+**Note:**  
+This method no longer works on the latest Insider builds. You’ll need to use [WinJS-Microsoft-Account-Bypass](https://github.com/the-P1neapple/WinJS-Microsoft-Account-Bypass) or Rufus.
+
 import ReactPlayer from 'react-player'
 
 <ReactPlayer controls width='75%' height='auto' src='/bypass_windows_11_internet_and_microsoft_account_requirement.mp4' />
