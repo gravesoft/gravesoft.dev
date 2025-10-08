@@ -43,12 +43,12 @@ Alternatively, you can find download links [here](https://massgrave.dev/genuine-
 
 ### Option 2: Manually Update ISOs
 
-**Applies to:** Windows 10 and Windows 11
+**Applies to:** Windows 10, Windows 11, and Windows Server 2025, 23H2, 2022
 
 :::info
 
-- To create an updated ISO for **Windows 10**, your host operating system must be **Windows 8.1 or newer**.  
-- To create an updated ISO for **Windows 11**, your host operating system must be **Windows 10 version 2004 or later**, or **Windows 11**.
+- To create an updated **Windows 10** ISO, your host operating system must be **Windows 8.1 or newer**.  
+- To create an updated **Windows 11** ISO, your host operating system must be **Windows 10 version 2004 or later**, or **Windows 11**.
 
 :::
 
@@ -61,19 +61,19 @@ Follow these steps to manually create an updated Windows ISO:
    - Get [W10UI](https://forums.mydigitallife.net/posts/1216064/).  
      Alternative links: [Link 1](https://kutt.it/W10UI) / [Link 2](https://tiny.cc/W10UI).
 
-3. **Download Updates**
-   - Go to [UUP Dump](https://uupdump.net/).
-   - From the dropdown menu, choose the correct version (e.g., *Windows 10 21H2* for Windows 10 LTSC 2021).
-     ![image](./assets/uup-dropdown.png)
-   - Select the latest build **that does not include “Cumulative Update”** in its name. It should say “Feature update” or simply “Windows 10/11”.
-   - On the next page, click the !updates button as shown below:
-     ![image](./assets/uup-click-updates.png)
-   - A list of update files will appear.  
-     Right-click on the link > **Open in new tab** > in the new tab, right-click again > **Save link as** to download.  
-     Repeat for all files.
-     ![image](./assets/uup-download-updates.png)
-   - Download the “File renaming script” listed on the same page and run it.  
-     It will rename all update files correctly. Verify that all file names are correct and all updates are downloaded.
+3. **Download Updates**  
+   - Go to [UUP Dump](https://uupdump.net/). (This site provides official Microsoft update links.)  
+   - From the dropdown menu, choose the correct version. For example:  
+     - For **Windows 10 LTSC 2021**, choose **Windows 10 21H2**  
+     - For **Windows 11 LTSC 2024**, choose **Windows 11 24H2**  
+     - For **Windows Server 2025**, choose **Windows 11 24H2** (the update files are the same; the Server 2025 entry doesn’t show the full list)  
+     - For **Windows Server 2022**, choose **Windows Server 21H2**  
+   - A list will appear. Select the latest build that **does not include “Cumulative Update”** in its name. It should be labeled “Feature update” or “Windows 10/11.”  
+   - On the next page, it will ask you to choose a language - no need to change it, just click **Next**.  
+   - On the following page, it will ask you to choose an edition - again, no need to change anything, just click **Next**.  
+   - On the next page, click the button named **Create download package for these updates**.  
+   - Extract the downloaded ZIP file and run the script named `uup_download_windows.cmd`.  
+   - It will download all the update files into a folder named `UUPs`.
 
 4. **Mount the ISO**  
    - Right-click the downloaded Windows ISO > **Mount**.
@@ -81,8 +81,9 @@ Follow these steps to manually create an updated Windows ISO:
 5. **Set Up the Working Directory**  
    - Extract the downloaded W10UI zip file.  
    - Create a folder named `Files` in D drive (e.g., `D:\Files`), avoiding spaces and special characters.  
-   - Copy all update files and the extracted `W10UI.cmd` file into this folder.  
-     The folder should look like this:  
+   - Copy the extracted `W10UI.cmd` file into this folder.  
+   - Copy all the update files downloaded earlier (from the `UUPs` folder) into this folder.  
+     Your folder should look like this:  
      ![image](./assets/w10ui-downloaded-files.png)
 
 6. **Integrate Updates**
