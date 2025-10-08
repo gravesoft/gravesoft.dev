@@ -91,12 +91,12 @@ It's highly recommended to backup your critical data on some online drive as wel
   <summary>Click here to view</summary>
 
 - Rufus can help you install Windows 11 on unsupported hardware, but you will encounter problems with future feature updates since Microsoft does not permit that on such hardware.
-- To resolve this issue, you need to install IoT Enterprise 24H2 (2024) edition which is [officially supported](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements) on unsupported hardware. Don't worry about it being an unusual edition; it's binary identical to other editions, with the primary difference being the licensing.
+- To resolve this issue, you need to install IoT Enterprise 24H2 (2024) (or newer) edition which is [officially supported](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements) on unsupported hardware. Don't worry about it being an unusual edition; it's binary identical to other editions, with the primary difference being the licensing.
 - This IoT Enterprise edition comes in 2 flavors,
   - IoT Enterprise (GAC, General Availability Channel) 
   - IoT Enterprise (LTSC, Long-Term Servicing Channel)
 - Next question, how do we install this edition?  
-  - For GAC version, you don't need IoT Enterprise ISO, you can simply use regular Windows 11 24H2 consumer (linked at the top) or business ISO.
+  - For GAC version, you don't need IoT Enterprise ISO, you can simply use regular Windows 11 25H2 consumer (linked at the top) or business ISO.
   - For LTSC version, you need to download the full version of LTSC ISO (don't use eval), it doesn't have to be IoT ISO, you can download a normal LTSC ISO in your language.
   - After flashing the required ISO using Rufus, navigate to the `\sources\` folder on the USB drive and create a file named `PID.txt` (ensure the file extension is correct). Open this file with Notepad and enter the text below.
     - For GAC version  
@@ -109,7 +109,7 @@ It's highly recommended to backup your critical data on some online drive as wel
 	  [PID]
 	  Value=CGK42-GYN6Y-VD22B-BX98W-J8JXD
 	  ```
-- When installing Windows, avoid selecting the "Previous version of the setup" option. The PID.txt method for virtual editions only works with the new installer in Windows 11 24H2 and later.
+- When installing Windows, avoid selecting the "Previous version of the setup" option. The PID.txt method for virtual editions only works with the new installer in Windows 11 24H2 (or newer).
 
 ![image](./assets/do_not_select_previous_version_of_setup.png)
 
@@ -130,7 +130,7 @@ When installing Windows IoT Enterprise (GAC):
 then Windows Setup will apply the OEM key from the motherboard during the final stage.
 
 **What this means**  
-- You can install **IoT Enterprise** with its features (including relaxed hardware requirements on Windows 11 24H2, etc.).
+- You can install **IoT Enterprise** with its features (including relaxed hardware requirements on Windows 11 24H2 (or newer), etc.).
 - After installation, the system will show Pro edition, not IoT Enterprise.
 - This happens because IoT Enterprise (GAC) is distributed only with an OEM key.
 - This behavior is normal and cannot be avoided.
@@ -178,7 +178,7 @@ NoKeyChannel
 
 :::note
   
-- In Windows 11 24H2 and later, the new installer does not support this, so you need to select the "Previous version of the setup" option when the setup starts.
+- In Windows 11 24H2 (or newer), the new installer does not support this, so you need to select the "Previous version of the setup" option when the setup starts.
 
 ![image](./assets/select_previous_version_of_setup.png)
 
