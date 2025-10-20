@@ -55,14 +55,15 @@ Alternatively, you can find download links [here](https://massgrave.dev/genuine-
 Follow these steps to manually create an updated Windows ISO:
 
 1. **Download the base ISO**  
-   - Get the official ISO from [MSDL](https://msdl.gravesoft.dev/) or [Microsoft](https://www.microsoft.com/en-us/software-download/).
+   - Get the official ISO from [MSDL](https://msdl.gravesoft.dev/) or [Microsoft](https://www.microsoft.com/en-us/software-download/) (Download ISO file directly; Media Creation Tool ISOs won’t work here.) or [here](https://massgrave.dev/genuine-installation-media).
 
 2. **Download W10UI**  
    - Get [W10UI](https://forums.mydigitallife.net/posts/1216064/).  
      Alternative links: [Link 1](https://kutt.it/W10UI) / [Link 2](https://tiny.cc/W10UI).
 
 3. **Download Updates**  
-   - Go to [UUP Dump](https://uupdump.net/). (This site provides official Microsoft update links.)  
+   - Go to [UUP Dump](https://uupdump.net/).  
+     (We are using this site here only to fetch official Microsoft update files. Downloading ISOs from this site for general use is not recommended; use them for evaluation purposes only.)
    - From the dropdown menu, choose the correct version. For example:  
      - For **Windows 10 LTSC 2021**, choose **Windows 10 21H2**  
      - For **Windows 11 LTSC 2024**, choose **Windows 11 24H2**  
@@ -74,13 +75,21 @@ Follow these steps to manually create an updated Windows ISO:
    - On the next page, click the button named **Create download package for these updates**.  
    - Extract the downloaded ZIP file and run the script named `uup_download_windows.cmd`.  
    - It will download all the update files into a folder named `UUPs`.
+   - **Download .NET Updates**  
+	 - The package above includes .NET updates **only** for Windows 11 build 22H2 and newer.  
+	 If you’re updating **Windows 10** or **Server 2022** ISOs, download the .NET updates separately.  
+	 You can skip this step if you’re updating **Windows 11** or **Server 2025** ISOs.
+	 - Open the appropriate link below based on your ISO version and download the latest month's file.
+	   - **Windows 10 LTSC 2021 (21H2) / Windows 10 22H2** - [x64](https://www.catalog.update.microsoft.com/Search.aspx?q=3.5%20-4.8.1%2022H2%201903%20Updates%20x64) / [x86](https://www.catalog.update.microsoft.com/Search.aspx?q=3.5%20-4.8.1%2022H2%201903%20Updates%20-x64%20-ARM64) / [ARM64](https://www.catalog.update.microsoft.com/Search.aspx?q=3.5%20-4.8.1%2022H2%201903%20Updates%20ARM64)  
+	   - **Windows Server 2022** - [x64](https://www.catalog.update.microsoft.com/Search.aspx?q=3.5+-4.8.1+21H2+Server+Updates)
+	 - Copy and paste the downloaded file into the same `UUPs` folder where other download files are saved.
 
 4. **Mount the ISO**  
    - Right-click the downloaded Windows ISO > **Mount**.
 
 5. **Set Up the Working Directory**  
    - Extract the downloaded W10UI zip file.  
-   - Create a folder named `Files` in D drive (e.g., `D:\Files`), avoiding spaces and special characters.  
+   - Create a folder named `Files` on the C or D drive (e.g., `D:\Files`), avoiding spaces or special characters. Make sure you have at least 40-50 GB of free space available.
    - Copy the extracted `W10UI.cmd` file into this folder.  
    - Copy all the update files downloaded earlier (from the `UUPs` folder) into this folder.  
      Your folder should look like this:  
