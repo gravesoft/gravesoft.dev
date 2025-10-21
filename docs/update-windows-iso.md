@@ -63,7 +63,7 @@ Follow these steps to manually create an updated Windows ISO:
 
 3. **Download Updates**  
    - Go to [UUP Dump](https://uupdump.net/).  
-     (We are using this site here only to fetch official Microsoft update files. Downloading ISOs from this site for general use is not recommended; use them for evaluation purposes only.)
+     (We are using this site here only to fetch official Microsoft update files. Generating ISOs from this site for general use is not recommended; use them for evaluation purposes only.)
    - From the dropdown menu, choose the correct version. For example:  
      - For **Windows 10 LTSC 2021**, choose **Windows 10 21H2**  
      - For **Windows 11 LTSC 2024**, choose **Windows 11 24H2**  
@@ -72,15 +72,15 @@ Follow these steps to manually create an updated Windows ISO:
    - A list will appear. Select the latest build that **does not include “Cumulative Update”** in its name. It should be labeled “Feature update” or “Windows 10/11.”  
    - On the next page, it will ask you to choose a language - no need to change it, just click **Next**.  
    - On the following page, it will ask you to choose an edition - again, no need to change anything, just click **Next**.  
-   - On the next page, click the button named **Create download package for these updates**.  
-   - Extract the downloaded ZIP file and run the script named `uup_download_windows.cmd`.  
+   - On the final summary page, click the button named **Create download package for these updates**.  
+   - Extract all the contents of the downloaded ZIP file, then run the script named `uup_download_windows.cmd`.
    - It will download all the update files into a folder named `UUPs`.
    - **Download .NET Updates**  
 	 - The package above includes .NET updates **only** for Windows 11 build 22H2 and newer.  
 	 If you’re updating **Windows 10** or **Server 2022** ISOs, download the .NET updates separately.  
 	 You can skip this step if you’re updating **Windows 11** or **Server 2025** ISOs.
 	 - Open the appropriate link below based on your ISO version and download the latest month's file.
-	   - **Windows 10 LTSC 2021 (21H2) / Windows 10 22H2** - [x64](https://www.catalog.update.microsoft.com/Search.aspx?q=3.5%20-4.8.1%2022H2%201903%20Updates%20x64) / [x86](https://www.catalog.update.microsoft.com/Search.aspx?q=3.5%20-4.8.1%2022H2%201903%20Updates%20-x64%20-ARM64) / [ARM64](https://www.catalog.update.microsoft.com/Search.aspx?q=3.5%20-4.8.1%2022H2%201903%20Updates%20ARM64)  
+	   - **Windows 10 LTSC 2021 (21H2) / Windows 10 22H2** - [x64](https://www.catalog.update.microsoft.com/Search.aspx?q=3.5+-4.8.1+22H2+1903+Updates+x64) / [x86](https://www.catalog.update.microsoft.com/Search.aspx?q=3.5+-4.8.1+22H2+1903+Updates+-x64+-ARM64) / [ARM64](https://www.catalog.update.microsoft.com/Search.aspx?q=3.5+-4.8.1+22H2+1903+Updates+ARM64)  
 	   - **Windows Server 2022** - [x64](https://www.catalog.update.microsoft.com/Search.aspx?q=3.5+-4.8.1+21H2+Server+Updates)
 	 - Copy and paste the downloaded file into the same `UUPs` folder where other download files are saved.
 
