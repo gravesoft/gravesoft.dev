@@ -37,7 +37,7 @@ Microsoft 365 receive regular updates with new features and improvements across 
 <summary>Click here for info</summary>
 
 - If Office installation is showing that it **can't install on selected updated channel** or there's any other error then,
-	- [Download Office Scrubber](https://github.com/abbodi1406/WHD/raw/master/scripts/OfficeScrubber_14.zip)
+	- [Download Office Scrubber](https://gitlab.com/-/project/11037551/uploads/f49f0d69e0aaf92e740a1f694d0438b9/OfficeScrubber_14.zip)
 	- Extract the downloaded zip file
 	- Run `OfficeScrubber.cmd` file as admin and select Scrub ALL option
 	- Let the process complete, it may take 10-15 minutes.

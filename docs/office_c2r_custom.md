@@ -20,7 +20,7 @@
 
 -   If Office was ever installed before,
 	- Uninstall Office with the App and Features option in Windows settings.
-	- Run `OfficeScrubber.cmd` file from [Office Scrubber](https://github.com/abbodi1406/WHD/raw/master/scripts/OfficeScrubber_14.zip) by abbodi1406 and select `[R] Remove all Licenses` option.
+	- Run `OfficeScrubber.cmd` file from [Office Scrubber](https://gitlab.com/-/project/11037551/uploads/f49f0d69e0aaf92e740a1f694d0438b9/OfficeScrubber_14.zip) by abbodi1406 and select `[R] Remove all Licenses` option.
 -   Create a new folder named `Office` in `C:\` drive, example `C:\Office`
 -   Download [Office Deployment Tool](https://officecdn.microsoft.com/pr/wsus/setup.exe) (ODT)
 -   Copy the downloaded `setup.exe` file to that Office folder which you created, example `C:\Office\setup.exe`
@@ -81,15 +81,15 @@ It will now install Office.
 #### Easy Custom Installation of Office Retail Products
 1. Download any offline `.img` file from the [Office C2R Installers](office_c2r_links.md) page. Preferably, choose **`O365ProPlusRetail`**.  
 2. Right-click the downloaded `.img` file and select **Mount**.  
-3. Download [YAOCTRI](https://github.com/abbodi1406/WHD/raw/master/scripts/YAOCTRI_v11.2.zip) and extract the zip file.  
+3. Download [YAOCTRI](https://pixeldrain.com/u/nrCgsLJa) and extract the zip file.  
 4. Run **`YAOCTRIR_Configurator.cmd`** as Administrator.  
 5. Follow the on-screen instructions and select any product you want (including Visio/Project).  
 6. Done.  
 
 #### Custom Installation Using the Latest/Volume Office Files
 1. Download and extract the following:  
-   - [YAOCTRU](https://github.com/abbodi1406/WHD/raw/master/scripts/YAOCTRU_v11.0.zip)  
-   - [YAOCTRI](https://github.com/abbodi1406/WHD/raw/master/scripts/YAOCTRI_v11.2.zip)  
+   - [YAOCTRU](https://pixeldrain.com/u/VUo4mjaM)  
+   - [YAOCTRI](https://pixeldrain.com/u/nrCgsLJa)  
    - [aria2](https://github.com/aria2/aria2/releases/download/release-1.37.0/aria2-1.37.0-win-32bit-build1.zip)  
 2. Copy **`aria2c.exe`** and paste it into the same folder as **`YAOCTRU_Generator.cmd`**.  
 3. Run **`YAOCTRU_Generator.cmd`**.  
