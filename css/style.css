@@ -50,6 +50,10 @@ hr {
     margin: 0 0 -24px 0;
 }
 
+main > p {
+    margin-bottom: 0;
+}
+
 @media (max-width: 832px) {
     main {
         border-radius: 0;
