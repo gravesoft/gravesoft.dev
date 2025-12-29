@@ -35,22 +35,8 @@ main {
     border: 1px solid #fff3;
 }
 
-code {
-    font-family: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
-}
-
 a {
     color: #fff;
-}
-
-a:hover,
-.github-links a:hover > img {
-    opacity: 80%;
-}
-
-a:active,
-.github-links a:active > img {
-    opacity: 70%;
 }
 
 hr {
@@ -62,24 +48,6 @@ hr {
 .logo {
     height: 160px;
     margin: 0 0 -24px 0;
-}
-
-.github-links {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    margin: 2em 0 16px 0;
-}
-
-.github-links a {
-    display: block;
-    text-decoration: none;
-}
-
-.github-links img {
-    filter: drop-shadow(1px 1px 2px #0004);
-    height: 64px;
 }
 
 @media (max-width: 832px) {
